@@ -7,3 +7,4 @@
 #include "diagonal_diff_easy.h"
 #include "plus_minus_easy.h"
 #include "staircase_easy.h"
+#include "mini_max_easy.h"

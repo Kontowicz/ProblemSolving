@@ -11,3 +11,4 @@
 |5|[Diagonal difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/diagonal_diff_easy.h)|
 |6|[Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/)|
 |7|[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/staircase_easy.h)|
+|8|[Mini max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/mini_max_easy.h)|

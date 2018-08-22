@@ -121,6 +121,7 @@
     <ClInclude Include="compare_the_triplets_easy.h" />
     <ClInclude Include="diagonal_diff_easy.h" />
     <ClInclude Include="include_easy.h" />
+    <ClInclude Include="mini_max_easy.h" />
     <ClInclude Include="plus_minus_easy.h" />
     <ClInclude Include="simple_array_sum_easy.h" />
     <ClInclude Include="solve_me_first_easy.h" />
