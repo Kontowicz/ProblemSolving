@@ -122,6 +122,7 @@
     <ClInclude Include="include_easy.h" />
     <ClInclude Include="simple_array_sum_easy.h" />
     <ClInclude Include="solve_me_first_easy.h" />
+    <ClInclude Include="very_big_sum_easy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

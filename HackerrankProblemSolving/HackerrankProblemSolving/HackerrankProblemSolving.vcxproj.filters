@@ -33,7 +33,10 @@
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
     <ClInclude Include="compare_the_triplets_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="very_big_sum_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
