@@ -8,6 +8,7 @@ void print()
 	cout << 2 << ": Simple array sum\n";
 	cout << 3 << ": Compare the triplets\n";
 	cout << 4 << ": A very big sum\n";
+	cout << 5 << ": Diagonal difference\n";
 }
 
 int main()
@@ -26,6 +27,7 @@ int main()
 		case 2: second::simple_array_sum(); break;
 		case 3: third::compare_the_triplets(); break;
 		case 4: fourth::very_big_sum(); break;
+		case 5: fifth::diff(); break;
 #pragma endregion 
 
 		case 0: break;
