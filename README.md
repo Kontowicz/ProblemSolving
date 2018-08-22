@@ -4,7 +4,7 @@
 
 |Number| Hackerrank exercise | MySolution |
 |------|---------------------|------------|
-|1|[Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_fisrt_easy.h)|
+|1|[Solve me first](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/solve_me_fisrt_easy.h)|
 
 
 

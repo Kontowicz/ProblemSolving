@@ -4,7 +4,8 @@
 void print()
 {
 	cout << "-----EASY-----\n";
-	cout << 1 << "Solve me first\n";
+	cout << 1 << ": Solve me first\n";
+	cout << 2 << ": Simple array sum\n";
 }
 
 int main()
@@ -20,6 +21,7 @@ int main()
 		{
 #pragma region EASY
 		case 1: first::solve_me_first(); break;
+		case 2: second::simple_array_sum(); break;
 #pragma endregion 
 
 		case 0: break;
