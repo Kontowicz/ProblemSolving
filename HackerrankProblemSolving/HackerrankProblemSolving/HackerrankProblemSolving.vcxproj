@@ -118,7 +118,9 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="compare_the_triplets_easy.h" />
     <ClInclude Include="include_easy.h" />
+    <ClInclude Include="simple_array_sum_easy.h" />
     <ClInclude Include="solve_me_first_easy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

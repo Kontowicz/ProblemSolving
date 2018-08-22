@@ -53,8 +53,7 @@ namespace second
 
 	void simple_array_sum()
 	{
-		ofstream fout(getenv("OUTPUT_PATH"));
-
+		
 		int ar_count;
 		cin >> ar_count;
 		cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
