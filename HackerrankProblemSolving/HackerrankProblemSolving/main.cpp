@@ -10,6 +10,7 @@ void print()
 	cout << 4 << ": A very big sum\n";
 	cout << 5 << ": Diagonal difference\n";
 	cout << 6 << ": Plus minus\n";
+	cout << 7 << ": Staircase\n";
 }
 
 int main()
@@ -30,6 +31,7 @@ int main()
 		case 4: fourth::very_big_sum(); break;
 		case 5: fifth::diff(); break;
 		case 6: sixth::plus_minus(); break;
+		case 7: seventh::staircase_easy(); break;
 #pragma endregion 
 
 		case 0: break;

@@ -10,4 +10,4 @@
 |4|[A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/very_big_sum_easy.h)|
 |5|[Diagonal difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/diagonal_diff_easy.h)|
 |6|[Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/)|
-
+|7|[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/staircase_easy.h)|
