@@ -9,5 +9,5 @@
 |3|[Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/compare_the_triplets_easy.h)|
 |4|[A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/very_big_sum_easy.h)|
 |5|[Diagonal difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/diagonal_diff_easy.h)|
-
+|6|[Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/)|
 

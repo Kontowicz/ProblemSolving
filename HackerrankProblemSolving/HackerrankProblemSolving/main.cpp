@@ -9,6 +9,7 @@ void print()
 	cout << 3 << ": Compare the triplets\n";
 	cout << 4 << ": A very big sum\n";
 	cout << 5 << ": Diagonal difference\n";
+	cout << 6 << ": Plus minus\n";
 }
 
 int main()
@@ -28,6 +29,7 @@ int main()
 		case 3: third::compare_the_triplets(); break;
 		case 4: fourth::very_big_sum(); break;
 		case 5: fifth::diff(); break;
+		case 6: sixth::plus_minus(); break;
 #pragma endregion 
 
 		case 0: break;
