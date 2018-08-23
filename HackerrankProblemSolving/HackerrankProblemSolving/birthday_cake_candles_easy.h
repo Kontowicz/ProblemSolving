@@ -10,6 +10,7 @@ namespace ninth
 	int birthdayCakeCandles(std::vector<int> ar) {
 		int cnt(0);
 		int max = ar[0];
+
 		for (auto e : ar) {
 			if (max<e)
 				max = e;

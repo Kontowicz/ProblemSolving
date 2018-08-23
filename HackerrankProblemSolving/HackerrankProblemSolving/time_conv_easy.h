@@ -16,7 +16,6 @@ namespace tenth
 		}
 		else {
 			//PM
-
 			if (hour == 12) {
 				return s.substr(0, s.length() - 2);
 			}
@@ -30,9 +29,7 @@ namespace tenth
 	{
 		std::string s;
 		getline(std::cin, s);
-
 		std::string result = timeConversion(s);
-
 		std::cout << result << "\n";
 	}
 }

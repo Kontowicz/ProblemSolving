@@ -10,3 +10,4 @@
 #include "mini_max_easy.h"
 #include "birthday_cake_candles_easy.h"
 #include "time_conv_easy.h"
+#include "grading.h"

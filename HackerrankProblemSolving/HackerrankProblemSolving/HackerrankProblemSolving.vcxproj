@@ -121,6 +121,7 @@
     <ClInclude Include="birthday_cake_candles_easy.h" />
     <ClInclude Include="compare_the_triplets_easy.h" />
     <ClInclude Include="diagonal_diff_easy.h" />
+    <ClInclude Include="grading.h" />
     <ClInclude Include="include_easy.h" />
     <ClInclude Include="mini_max_easy.h" />
     <ClInclude Include="plus_minus_easy.h" />

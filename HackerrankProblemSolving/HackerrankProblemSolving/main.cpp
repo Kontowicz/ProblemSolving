@@ -14,8 +14,24 @@ void print()
 	cout << 8 << ": Mini max\n";
 	cout << 9 << ": Birthday cake candles\n";
 	cout << 10 << ": Time conversion\n";
+	cout << 11 << ": Grading\n";
 }
 
+std::vector<int> gradingStudents(std::vector<int> grades) {
+	std::vector<int> to_ret;
+	for (auto e : grades) {
+		if (e<38) {
+			to_ret.push_back(e);
+		}
+		else if (((static_cast<int>(e / 5 + 1) * 5) - e<3)) {
+			to_ret.push_back(static_cast<int>(e / 5 + 1) * 5);
+		}
+		else {
+			to_ret.push_back(e);
+		}
+	}
+	return to_ret;
+}
 int main()
 {
 	int n(0);
@@ -27,7 +43,7 @@ int main()
 		cin.ignore();
 		switch (n)
 		{
-#pragma region EASY
+#pragma region easy
 		case 1: first::solve_me_first(); break;
 		case 2: second::simple_array_sum(); break;
 		case 3: third::compare_the_triplets(); break;
@@ -38,6 +54,7 @@ int main()
 		case 8: eight::mini_max(); break;
 		case 9: ninth::cake(); break;
 		case 10: tenth::time_conv(); break;
+		case 11: eleventh::grade(); break;
 #pragma endregion 
 
 		case 0: break;
