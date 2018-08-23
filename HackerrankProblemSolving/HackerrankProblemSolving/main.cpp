@@ -12,6 +12,8 @@ void print()
 	cout << 6 << ": Plus minus\n";
 	cout << 7 << ": Staircase\n";
 	cout << 8 << ": Mini max\n";
+	cout << 9 << ": Birthday cake candles\n";
+	cout << 10 << ": Time conversion\n";
 }
 
 int main()
@@ -34,6 +36,8 @@ int main()
 		case 6: sixth::plus_minus(); break;
 		case 7: seventh::staircase_easy(); break;
 		case 8: eight::mini_max(); break;
+		case 9: ninth::cake(); break;
+		case 10: tenth::time_conv(); break;
 #pragma endregion 
 
 		case 0: break;
