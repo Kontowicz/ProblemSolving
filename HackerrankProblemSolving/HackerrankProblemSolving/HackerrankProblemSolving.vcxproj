@@ -118,6 +118,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="apple_orange_esay.h" />
     <ClInclude Include="birthday_cake_candles_easy.h" />
     <ClInclude Include="compare_the_triplets_easy.h" />
     <ClInclude Include="diagonal_diff_easy.h" />

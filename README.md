@@ -15,3 +15,4 @@
 |9|[Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/birthday_cake_candles_easy.h)|
 |10|[Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/time_conv_easy.h)|
 |11|[Grading](https://www.hackerrank.com/challenges/grading/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/grading.h)|
+|12|[Apple and orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[MySolution](../master/HackerrankProblemSolving/HackerrankProblemSolving/)|

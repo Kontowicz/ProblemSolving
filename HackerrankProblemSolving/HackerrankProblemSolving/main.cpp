@@ -15,6 +15,7 @@ void print()
 	cout << 9 << ": Birthday cake candles\n";
 	cout << 10 << ": Time conversion\n";
 	cout << 11 << ": Grading\n";
+	cout << 12 << ": Apple and orange\n";
 }
 
 std::vector<int> gradingStudents(std::vector<int> grades) {
@@ -55,6 +56,7 @@ int main()
 		case 9: ninth::cake(); break;
 		case 10: tenth::time_conv(); break;
 		case 11: eleventh::grade(); break;
+		case 12: twelfth::apple_orange(); break;
 #pragma endregion 
 
 		case 0: break;
