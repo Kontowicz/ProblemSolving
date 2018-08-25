@@ -15,9 +15,7 @@ namespace fifth
 			right += arr[i][n];
 			++n;
 		}
-
 		return abs(left - right);
-
 	}
 
 
@@ -26,7 +24,6 @@ namespace fifth
 		int n;
 		std::cin >> n;
 		std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-
 		std::vector<std::vector<int>> arr(n);
 		for (int i = 0; i < n; i++) {
 			arr[i].resize(n);
@@ -37,9 +34,7 @@ namespace fifth
 
 			std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 		}
-
 		int result = diagonalDifference(arr);
-
 		std::cout << result << "\n";
 	}
 }

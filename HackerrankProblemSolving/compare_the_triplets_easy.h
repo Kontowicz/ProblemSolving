@@ -64,7 +64,6 @@ namespace third
 
 	void compare_the_triplets()
 	{
-		
 		std::string a_temp_temp;
 		getline(std::cin, a_temp_temp);
 

@@ -129,6 +129,7 @@
     <ClInclude Include="simple_array_sum_easy.h" />
     <ClInclude Include="solve_me_first_easy.h" />
     <ClInclude Include="staircase_easy.h" />
+    <ClInclude Include="string_split.h" />
     <ClInclude Include="time_conv_easy.h" />
     <ClInclude Include="very_big_sum_easy.h" />
   </ItemGroup>
