@@ -12,3 +12,5 @@
 #include "time_conversion_easy.h"
 #include "grading_easy.h"
 #include "apple_and_orange_easy.h"
+#include "kangaroo_easy.h"
+#include "breaking_best_and_worst_records_easy.h"

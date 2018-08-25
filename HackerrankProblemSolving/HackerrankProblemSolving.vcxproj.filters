@@ -65,5 +65,11 @@
     <ClInclude Include="apple_and_orange_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
+    <ClInclude Include="kangaroo_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="breaking_best_and_worst_records_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
