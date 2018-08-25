@@ -118,10 +118,10 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="apple_orange_esay.h" />
+    <ClInclude Include="apple_and_orange_esay.h" />
     <ClInclude Include="birthday_cake_candles_easy.h" />
     <ClInclude Include="compare_the_triplets_easy.h" />
-    <ClInclude Include="diagonal_diff_easy.h" />
+    <ClInclude Include="diagonal_difference_easy.h" />
     <ClInclude Include="grading.h" />
     <ClInclude Include="include_easy.h" />
     <ClInclude Include="mini_max_easy.h" />
@@ -130,8 +130,8 @@
     <ClInclude Include="solve_me_first_easy.h" />
     <ClInclude Include="staircase_easy.h" />
     <ClInclude Include="string_split.h" />
-    <ClInclude Include="time_conv_easy.h" />
-    <ClInclude Include="very_big_sum_easy.h" />
+    <ClInclude Include="time_conversion_easy.h" />
+    <ClInclude Include="a_very_big_sum_easy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

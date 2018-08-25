@@ -1,5 +1,7 @@
 #pragma once
 #include "string_split.h"
+#include <iostream>
+
 namespace fourth
 {
 	long aVeryBigSum(std::vector<long> ar) {
@@ -11,10 +13,10 @@ namespace fourth
 
 	void very_big_sum() {
 		int ar_count;
-		cin >> ar_count;
-		cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+		std::cin >> ar_count;
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 		std::string ar_temp_temp;
-		getline(cin, ar_temp_temp);
+		getline(std::cin, ar_temp_temp);
 		std::vector<std::string> ar_temp = split_string(ar_temp_temp);
 		std::vector<long> ar(ar_count);
 		for (int i = 0; i < ar_count; i++) {
@@ -23,6 +25,6 @@ namespace fourth
 			ar[i] = ar_item;
 		}
 		long result = aVeryBigSum(ar);
-		cout << result << "\n";
+		std::cout << result << "\n";
 	}
 }

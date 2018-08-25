@@ -35,9 +35,6 @@
     <ClInclude Include="compare_the_triplets_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="very_big_sum_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
     <ClInclude Include="plus_minus_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
@@ -50,20 +47,23 @@
     <ClInclude Include="birthday_cake_candles_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="time_conv_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
     <ClInclude Include="grading.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="diagonal_diff_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="apple_orange_esay.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
     <ClInclude Include="string_split.h">
       <Filter>Pliki zasobów</Filter>
+    </ClInclude>
+    <ClInclude Include="a_very_big_sum_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="diagonal_difference_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="time_conversion_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="apple_and_orange_esay.h">
+      <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
