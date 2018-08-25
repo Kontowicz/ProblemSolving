@@ -9,7 +9,7 @@
 |3|[Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[MySolution](../master/HackerrankProblemSolving/compare_the_triplets_easy.h)|
 |4|[A very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)|[MySolution](../master/HackerrankProblemSolving/very_big_sum_easy.h)|
 |5|[Diagonal difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[MySolution](../master/HackerrankProblemSolving/diagonal_diff_easy.h)|
-|6|[Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/)|
+|6|[Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/plus_minus_easy.h)|
 |7|[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
 |8|[Mini max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[MySolution](../master/HackerrankProblemSolving/mini_max_easy.h)|
 |9|[Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[MySolution](../master/HackerrankProblemSolving/birthday_cake_candles_easy.h)|
