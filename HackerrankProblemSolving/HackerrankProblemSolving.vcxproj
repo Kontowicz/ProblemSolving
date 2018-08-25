@@ -118,11 +118,11 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="apple_and_orange_esay.h" />
+    <ClInclude Include="apple_and_orange_easy.h" />
     <ClInclude Include="birthday_cake_candles_easy.h" />
     <ClInclude Include="compare_the_triplets_easy.h" />
     <ClInclude Include="diagonal_difference_easy.h" />
-    <ClInclude Include="grading.h" />
+    <ClInclude Include="grading_easy.h" />
     <ClInclude Include="include_easy.h" />
     <ClInclude Include="mini_max_easy.h" />
     <ClInclude Include="plus_minus_easy.h" />

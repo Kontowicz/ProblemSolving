@@ -10,5 +10,5 @@
 #include "mini_max_easy.h"
 #include "birthday_cake_candles_easy.h"
 #include "time_conversion_easy.h"
-#include "grading.h"
-#include "apple_and_orange_esay.h"
+#include "grading_easy.h"
+#include "apple_and_orange_easy.h"

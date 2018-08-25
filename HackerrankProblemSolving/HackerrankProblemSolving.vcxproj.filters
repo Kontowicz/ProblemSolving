@@ -47,9 +47,6 @@
     <ClInclude Include="birthday_cake_candles_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="grading.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
     <ClInclude Include="string_split.h">
       <Filter>Pliki zasobów</Filter>
     </ClInclude>
@@ -62,7 +59,10 @@
     <ClInclude Include="time_conversion_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="apple_and_orange_esay.h">
+    <ClInclude Include="grading_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="apple_and_orange_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
   </ItemGroup>
