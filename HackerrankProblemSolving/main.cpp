@@ -22,6 +22,7 @@ void print()
 	cout << 15 << ": The birthday bar\n";
 	cout << 16 << ": Divisible sum pairs\n";
 	cout << 17 << ": Migratory birds\n";
+	cout << 18 << ": Day of the programmer\n";
 }
 
 int main()
@@ -53,6 +54,7 @@ int main()
 		case 15: fifteenth::bar(); break;
 		case 16: sixteenth::divisible(); break;
 		case 17: seventeenth::birds(); break;
+		case 18: eighteenth::day_of_pragrammer(); break;
 #pragma endregion 
 
 		case 0: break;
