@@ -1,5 +1,5 @@
 #include "include_easy.h"
-#include "divisible_sum_pairs_easy.h"
+
 
 
 void print()
@@ -23,6 +23,7 @@ void print()
 	cout << 16 << ": Divisible sum pairs\n";
 	cout << 17 << ": Migratory birds\n";
 	cout << 18 << ": Day of the programmer\n";
+	cout << 19 << ": Bon appetit\n";
 }
 
 int main()
@@ -55,6 +56,7 @@ int main()
 		case 16: sixteenth::divisible(); break;
 		case 17: seventeenth::birds(); break;
 		case 18: eighteenth::day_of_pragrammer(); break;
+		case 19: nineteenth::bon_app(); break;
 #pragma endregion 
 
 		case 0: break;
@@ -62,6 +64,3 @@ int main()
 	} while (n > 0);
 	return 0;
 }
-
-
-#include <vector>

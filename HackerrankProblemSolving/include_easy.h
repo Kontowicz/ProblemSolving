@@ -8,7 +8,7 @@
 #include "plus_minus_easy.h"
 #include "staircase_easy.h"
 #include "mini_max_easy.h"
-
+#include "divisible_sum_pairs_easy.h"
 #include "birthday_cake_candles_easy.h"
 #include "time_conversion_easy.h"
 #include "grading_easy.h"
@@ -18,3 +18,4 @@
 #include "the_birthday_bar_easy.h"
 #include "migratory_birds_easy.h"
 #include "day_of_the_programmer_easy.h"
+#include "bon_appetit_easyh.h"

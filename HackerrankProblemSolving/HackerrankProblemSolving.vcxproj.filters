@@ -83,5 +83,8 @@
     <ClInclude Include="day_of_the_programmer_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
+    <ClInclude Include="bon_appetit_easyh.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
