@@ -123,9 +123,11 @@
     <ClInclude Include="breaking_best_and_worst_records_easy.h" />
     <ClInclude Include="compare_the_triplets_easy.h" />
     <ClInclude Include="diagonal_difference_easy.h" />
+    <ClInclude Include="divisible_sum_pairs_easy.h" />
     <ClInclude Include="grading_easy.h" />
     <ClInclude Include="include_easy.h" />
     <ClInclude Include="kangaroo_easy.h" />
+    <ClInclude Include="migratory_birds_easy.h" />
     <ClInclude Include="mini_max_easy.h" />
     <ClInclude Include="plus_minus_easy.h" />
     <ClInclude Include="simple_array_sum_easy.h" />

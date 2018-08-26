@@ -74,5 +74,11 @@
     <ClInclude Include="the_birthday_bar_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
+    <ClInclude Include="divisible_sum_pairs_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="migratory_birds_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -16,3 +16,4 @@
 #include "kangaroo_easy.h"
 #include "breaking_best_and_worst_records_easy.h"
 #include "the_birthday_bar_easy.h"
+#include "migratory_birds_easy.h"

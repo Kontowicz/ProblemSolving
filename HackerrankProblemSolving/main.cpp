@@ -21,6 +21,7 @@ void print()
 	cout << 14 << ": Breaking best and worst records\n";
 	cout << 15 << ": The birthday bar\n";
 	cout << 16 << ": Divisible sum pairs\n";
+	cout << 17 << ": Migratory birds\n";
 }
 
 int main()
@@ -51,6 +52,7 @@ int main()
 		case 14: fourteenth::breaking(); break;
 		case 15: fifteenth::bar(); break;
 		case 16: sixteenth::divisible(); break;
+		case 17: seventeenth::birds(); break;
 #pragma endregion 
 
 		case 0: break;
@@ -59,3 +61,5 @@ int main()
 	return 0;
 }
 
+
+#include <vector>

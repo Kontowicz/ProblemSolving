@@ -13,10 +13,11 @@
 |7|[Divisible sum pairs ](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[MySolution](../master/HackerrankProblemSolving/divisible_sum_pairs_easy.h)|
 |8|[Grading ](https://www.hackerrank.com/challenges/grading/problem)|[MySolution](../master/HackerrankProblemSolving/grading_easy.h)|
 |9|[Kangaroo ](https://www.hackerrank.com/challenges/kangaroo/problem)|[MySolution](../master/HackerrankProblemSolving/kangaroo_easy.h)|
-|10|[Mini max ](https://www.hackerrank.com/challenges/mini-max/problem)|[MySolution](../master/HackerrankProblemSolving/mini_max_easy.h)|
-|11|[Plus minus ](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/plus_minus_easy.h)|
-|12|[Simple array sum ](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[MySolution](../master/HackerrankProblemSolving/simple_array_sum_easy.h)|
-|13|[Solve me first ](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_first_easy.h)|
-|14|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
-|15|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
-|16|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
+|10|[Migratory birds ](https://www.hackerrank.com/challenges/migratory-birds/problem)|[MySolution](../master/HackerrankProblemSolving/migratory_birds_easy.h)|
+|11|[Mini max ](https://www.hackerrank.com/challenges/mini-max/problem)|[MySolution](../master/HackerrankProblemSolving/mini_max_easy.h)|
+|12|[Plus minus ](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/plus_minus_easy.h)|
+|13|[Simple array sum ](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[MySolution](../master/HackerrankProblemSolving/simple_array_sum_easy.h)|
+|14|[Solve me first ](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_first_easy.h)|
+|15|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
+|16|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
+|17|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
