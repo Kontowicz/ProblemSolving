@@ -15,3 +15,4 @@
 #include "apple_and_orange_easy.h"
 #include "kangaroo_easy.h"
 #include "breaking_best_and_worst_records_easy.h"
+#include "the_birthday_bar_easy.h"

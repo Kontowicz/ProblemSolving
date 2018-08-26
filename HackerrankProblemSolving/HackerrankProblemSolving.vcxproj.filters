@@ -21,9 +21,6 @@
     <ClCompile Include="main.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
-    <ClCompile Include="Źródło.cpp">
-      <Filter>Pliki zasobów</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include_easy.h">
@@ -72,6 +69,9 @@
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
     <ClInclude Include="breaking_best_and_worst_records_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="the_birthday_bar_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
   </ItemGroup>

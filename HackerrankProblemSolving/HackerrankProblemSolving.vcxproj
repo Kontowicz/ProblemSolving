@@ -116,7 +116,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Źródło.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="apple_and_orange_easy.h" />
@@ -133,6 +132,7 @@
     <ClInclude Include="solve_me_first_easy.h" />
     <ClInclude Include="staircase_easy.h" />
     <ClInclude Include="string_split.h" />
+    <ClInclude Include="the_birthday_bar_easy.h" />
     <ClInclude Include="time_conversion_easy.h" />
     <ClInclude Include="a_very_big_sum_easy.h" />
   </ItemGroup>

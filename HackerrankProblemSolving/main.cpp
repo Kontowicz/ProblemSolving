@@ -18,6 +18,7 @@ void print()
 	cout << 12 << ": Apple and orange\n";
 	cout << 13 << ": Kangaroo\n";
 	cout << 14 << ": Breaking best and worst records\n";
+	cout << 15 << ": The birthday bar\n";
 }
 
 int main()
@@ -46,6 +47,7 @@ int main()
 		case 12: twelfth::apple_orange(); break;
 		case 13: thirteenth::kangaroo_(); break;
 		case 14: fourteenth::breaking(); break;
+		case 15: fifteenth::bar(); break;
 #pragma endregion 
 
 		case 0: break;
