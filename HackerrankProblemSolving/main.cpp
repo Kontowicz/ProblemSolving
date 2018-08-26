@@ -1,4 +1,5 @@
 #include "include_easy.h"
+#include "divisible_sum_pairs_easy.h"
 
 
 void print()
@@ -19,6 +20,7 @@ void print()
 	cout << 13 << ": Kangaroo\n";
 	cout << 14 << ": Breaking best and worst records\n";
 	cout << 15 << ": The birthday bar\n";
+	cout << 16 << ": Divisible sum pairs\n";
 }
 
 int main()
@@ -48,6 +50,7 @@ int main()
 		case 13: thirteenth::kangaroo_(); break;
 		case 14: fourteenth::breaking(); break;
 		case 15: fifteenth::bar(); break;
+		case 16: sixteenth::divisible(); break;
 #pragma endregion 
 
 		case 0: break;
@@ -55,3 +58,4 @@ int main()
 	} while (n > 0);
 	return 0;
 }
+
