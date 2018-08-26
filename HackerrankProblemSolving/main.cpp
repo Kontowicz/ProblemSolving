@@ -20,21 +20,6 @@ void print()
 	cout << 14 << ": Breaking best and worst records\n";
 }
 
-std::vector<int> gradingStudents(std::vector<int> grades) {
-	std::vector<int> to_ret;
-	for (auto e : grades) {
-		if (e<38) {
-			to_ret.push_back(e);
-		}
-		else if (((static_cast<int>(e / 5 + 1) * 5) - e<3)) {
-			to_ret.push_back(static_cast<int>(e / 5 + 1) * 5);
-		}
-		else {
-			to_ret.push_back(e);
-		}
-	}
-	return to_ret;
-}
 int main()
 {
 	int n(0);
@@ -59,7 +44,7 @@ int main()
 		case 10: tenth::time_conv(); break;
 		case 11: eleventh::grade(); break;
 		case 12: twelfth::apple_orange(); break;
-		case 13: thirteenth::kangaroo(); break;
+		case 13: thirteenth::kangaroo_(); break;
 		case 14: fourteenth::breaking(); break;
 #pragma endregion 
 

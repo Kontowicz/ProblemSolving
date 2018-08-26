@@ -26,7 +26,7 @@ namespace thirteenth
 		}
 	}
 
-	void kangaroo()
+	void kangaroo_()
 	{
 		std::string x1V1X2V2_temp;
 		getline(std::cin, x1V1X2V2_temp);
