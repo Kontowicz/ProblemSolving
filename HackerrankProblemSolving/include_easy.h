@@ -19,3 +19,6 @@
 #include "migratory_birds_easy.h"
 #include "day_of_the_programmer_easy.h"
 #include "bon_appetit_easyh.h"
+#include "sock_merchant_easy.h"
+#include "drawing_book_easy.h"
+#include "counting_valleys_easy.h"

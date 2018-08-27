@@ -24,6 +24,9 @@ void print()
 	cout << 17 << ": Migratory birds\n";
 	cout << 18 << ": Day of the programmer\n";
 	cout << 19 << ": Bon appetit\n";
+	cout << 20 << ": Sock merchant\n";
+	cout << 21 << ": Drawing book\n";
+	cout << 22 << ": Counting valleys\n";
 }
 
 int main()
@@ -57,6 +60,9 @@ int main()
 		case 17: _17::birds(); break;
 		case 18: _18::day_of_pragrammer(); break;
 		case 19: _19::bon_app(); break;
+		case 20: _20::sock(); break;
+		case 21: _21::book(); break;
+		case 22: _22::val(); break;
 #pragma endregion 
 
 		case 0: break;

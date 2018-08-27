@@ -123,9 +123,11 @@
     <ClInclude Include="bon_appetit_easyh.h" />
     <ClInclude Include="breaking_best_and_worst_records_easy.h" />
     <ClInclude Include="compare_the_triplets_easy.h" />
+    <ClInclude Include="counting_valleys_easy.h" />
     <ClInclude Include="day_of_the_programmer_easy.h" />
     <ClInclude Include="diagonal_difference_easy.h" />
     <ClInclude Include="divisible_sum_pairs_easy.h" />
+    <ClInclude Include="drawing_book_easy.h" />
     <ClInclude Include="grading_easy.h" />
     <ClInclude Include="include_easy.h" />
     <ClInclude Include="kangaroo_easy.h" />
@@ -133,6 +135,7 @@
     <ClInclude Include="mini_max_easy.h" />
     <ClInclude Include="plus_minus_easy.h" />
     <ClInclude Include="simple_array_sum_easy.h" />
+    <ClInclude Include="sock_merchant_easy.h" />
     <ClInclude Include="solve_me_first_easy.h" />
     <ClInclude Include="staircase_easy.h" />
     <ClInclude Include="string_split.h" />
