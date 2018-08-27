@@ -128,6 +128,7 @@
     <ClInclude Include="diagonal_difference_easy.h" />
     <ClInclude Include="divisible_sum_pairs_easy.h" />
     <ClInclude Include="drawing_book_easy.h" />
+    <ClInclude Include="electronics_shop_easy.h" />
     <ClInclude Include="grading_easy.h" />
     <ClInclude Include="include_easy.h" />
     <ClInclude Include="kangaroo_easy.h" />

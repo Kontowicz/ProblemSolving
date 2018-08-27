@@ -27,6 +27,7 @@ void print()
 	cout << 20 << ": Sock merchant\n";
 	cout << 21 << ": Drawing book\n";
 	cout << 22 << ": Counting valleys\n";
+	cout << 23 << ": Electronic shop\n";
 }
 
 int main()
@@ -63,6 +64,7 @@ int main()
 		case 20: _20::sock(); break;
 		case 21: _21::book(); break;
 		case 22: _22::val(); break;
+		case 23: _23::shop(); break;
 #pragma endregion 
 
 		case 0: break;
