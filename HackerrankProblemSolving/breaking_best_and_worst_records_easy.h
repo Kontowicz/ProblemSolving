@@ -5,7 +5,7 @@
 #include <iostream>
 
 
-namespace fourteenth
+namespace _14
 {
 	std::vector<int> breakingRecords(std::vector<int> scores) {
 		int min(scores[0]);

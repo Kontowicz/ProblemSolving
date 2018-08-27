@@ -1,6 +1,6 @@
 #pragma once
 
-namespace eighteenth
+namespace _18
 {
 	std::string dayOfProgrammer(int year) {
 		bool is_leap = false;

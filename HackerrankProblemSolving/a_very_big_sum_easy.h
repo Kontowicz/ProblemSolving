@@ -2,7 +2,7 @@
 #include "string_split.h"
 #include <iostream>
 
-namespace fourth
+namespace _4 
 {
 	long aVeryBigSum(std::vector<long> ar) {
 		long sum(0);

@@ -4,7 +4,7 @@
 #include "string_split.h"
 #include <iostream>
 
-namespace sixteenth
+namespace _16
 {
 	int divisibleSumPairs(int n, int k, std::vector<int> ar) {
 

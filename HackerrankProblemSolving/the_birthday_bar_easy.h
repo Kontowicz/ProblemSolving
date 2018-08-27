@@ -4,7 +4,7 @@
 #include <iostream>
 #include <numeric>
 
-namespace fifteenth
+namespace _15
 {
 	int birthday(std::vector<int> s, int d, int m) {
 		int counter(0);

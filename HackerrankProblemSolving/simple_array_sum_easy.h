@@ -5,7 +5,7 @@
 #include "string_split.h"
 #include <string>
 
-namespace second
+namespace _2
 {
 	using std::vector;
 	using std::string;

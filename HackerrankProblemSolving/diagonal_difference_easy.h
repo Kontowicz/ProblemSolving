@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 
-namespace fifth
+namespace _5
 {
 	int diagonalDifference(std::vector<std::vector<int>> arr) {
 		int left(0);

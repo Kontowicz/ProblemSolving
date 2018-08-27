@@ -3,7 +3,7 @@
 using std::cin;
 using std::cout;
 
-namespace first
+namespace _1
 {
 	int solveMeFirst(int a, int b) {
 		return a + b;

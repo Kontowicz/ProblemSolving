@@ -38,25 +38,25 @@ int main()
 		switch (n)
 		{
 #pragma region easy
-		case 1: first::solve_me_first(); break;
-		case 2: second::simple_array_sum(); break;
-		case 3: third::compare_the_triplets(); break;
-		case 4: fourth::very_big_sum(); break;
-		case 5: fifth::diff(); break;
-		case 6: sixth::plus_minus(); break;
-		case 7: seventh::staircase_easy(); break;
-		case 8: eight::mini_max(); break;
-		case 9: ninth::cake(); break;
-		case 10: tenth::time_conv(); break;
-		case 11: eleventh::grade(); break;
-		case 12: twelfth::apple_orange(); break;
-		case 13: thirteenth::kangaroo_(); break;
-		case 14: fourteenth::breaking(); break;
-		case 15: fifteenth::bar(); break;
-		case 16: sixteenth::divisible(); break;
-		case 17: seventeenth::birds(); break;
-		case 18: eighteenth::day_of_pragrammer(); break;
-		case 19: nineteenth::bon_app(); break;
+		case 1: _1::solve_me_first(); break;
+		case 2: _2::simple_array_sum(); break;
+		case 3: _3::compare_the_triplets(); break;
+		case 4: _4::very_big_sum(); break;
+		case 5: _5::diff(); break;
+		case 6: _6::plus_minus(); break;
+		case 7: _7::staircase_easy(); break;
+		case 8: _8::mini_max(); break;
+		case 9: _9::cake(); break;
+		case 10: _10::time_conv(); break;
+		case 11: _11::grade(); break;
+		case 12: _12::apple_orange(); break;
+		case 13: _13::kangaroo_(); break;
+		case 14: _14::breaking(); break;
+		case 15: _15::bar(); break;
+		case 16: _16::divisible(); break;
+		case 17: _17::birds(); break;
+		case 18: _18::day_of_pragrammer(); break;
+		case 19: _19::bon_app(); break;
 #pragma endregion 
 
 		case 0: break;

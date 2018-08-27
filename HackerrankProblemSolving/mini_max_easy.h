@@ -2,10 +2,9 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include <algorithm>
 #include "string_split.h"
 
-namespace eight
+namespace _8
 {
 	void miniMaxSum(std::vector<int> arr) {
 		long long min = arr[0];

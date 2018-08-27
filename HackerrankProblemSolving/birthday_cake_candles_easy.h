@@ -5,7 +5,7 @@
 #include <algorithm>
 #include "string_split.h"
 
-namespace ninth
+namespace _9
 {
 	int birthdayCakeCandles(std::vector<int> ar) {
 		int cnt(0);

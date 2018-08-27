@@ -4,7 +4,7 @@
 #include <string>
 #include "string_split.h"
 
-namespace nineteenth
+namespace _19
 {
 	void bonAppetit(std::vector<int> bill, int k, int b) {
 		double sum(0);

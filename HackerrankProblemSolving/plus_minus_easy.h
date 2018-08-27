@@ -4,7 +4,7 @@
 #include "string_split.h"
 #include <iostream>
 
-namespace sixth
+namespace _6
 {
 	void plusMinus(std::vector<int> arr) {
 		unsigned int zero(0);

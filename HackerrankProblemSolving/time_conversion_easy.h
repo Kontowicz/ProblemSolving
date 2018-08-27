@@ -2,7 +2,7 @@
 #include <string>
 #include <iostream>
 
-namespace tenth
+namespace _10
 {
 	std::string timeConversion(std::string s) {
 		int hour = std::stoi(s.substr(0, 2));

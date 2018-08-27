@@ -3,7 +3,7 @@
 #include <iostream>
 #include "string_split.h"
 
-namespace thirteenth
+namespace _13
 {
 	std::string kangaroo(int x1, int v1, int x2, int v2) {
 		double tmp(0);

@@ -2,7 +2,7 @@
 #include <vector>
 #include <iostream>
 
-namespace eleventh
+namespace _11
 {
 	std::vector<int> gradingStudents(std::vector<int> grades) {
 		std::vector<int> to_ret;

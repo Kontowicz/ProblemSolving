@@ -4,7 +4,7 @@
 #include <iostream>
 #include <map>
 
-namespace seventeenth
+namespace _17
 {
 	int migratoryBirds(std::vector<int> arr) {
 		std::map<int, int> counter;

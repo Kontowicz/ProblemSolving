@@ -2,7 +2,7 @@
 #include <ios>
 #include <iostream>
 
-namespace seventh
+namespace _7
 {
 	void staircase(int n) {
 		auto str = [](int len) { std::string tmp = ""; for (int i = 0; i<len; i++) tmp += '#'; return tmp; };

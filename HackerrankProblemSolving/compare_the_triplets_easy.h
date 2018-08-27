@@ -1,11 +1,9 @@
 #pragma once
 #include <string>
-#include <algorithm>
-#include <functional>
 #include <vector>
 #include <iostream>
 
-namespace third
+namespace _3
 {
 	std::vector<int> compareTriplets(const std::vector<int> &a, const std::vector<int> &b) {
 		std::vector<int> to_return{ 0,0 };
