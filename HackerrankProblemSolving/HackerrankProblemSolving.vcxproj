@@ -122,6 +122,7 @@
     <ClInclude Include="birthday_cake_candles_easy.h" />
     <ClInclude Include="bon_appetit_easyh.h" />
     <ClInclude Include="breaking_best_and_worst_records_easy.h" />
+    <ClInclude Include="cats_and_a_mouse_easy.h" />
     <ClInclude Include="compare_the_triplets_easy.h" />
     <ClInclude Include="counting_valleys_easy.h" />
     <ClInclude Include="day_of_the_programmer_easy.h" />

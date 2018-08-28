@@ -23,3 +23,4 @@
 #include "drawing_book_easy.h"
 #include "counting_valleys_easy.h"
 #include "electronics_shop_easy.h"
+#include "cats_and_a_mouse_easy.h"
