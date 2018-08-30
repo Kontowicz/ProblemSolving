@@ -21,6 +21,7 @@ def add_top(path):
 	file.close()
 	
 def generate_easy(easy, path):
+	print(len(easy))
 	tmp = []
 	for e in easy:
 		tmp.append( [e[0].upper() + e[1:-6].replace('_',' '), ('https://www.hackerrank.com/challenges/%s/problem' %(e[:-7].replace('_','-'))), e, ])

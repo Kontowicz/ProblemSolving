@@ -120,7 +120,7 @@
   <ItemGroup>
     <ClInclude Include="apple_and_orange_easy.h" />
     <ClInclude Include="birthday_cake_candles_easy.h" />
-    <ClInclude Include="bon_appetit_easyh.h" />
+    <ClInclude Include="bon_appetit_easy.h" />
     <ClInclude Include="breaking_best_and_worst_records_easy.h" />
     <ClInclude Include="cats_and_a_mouse_easy.h" />
     <ClInclude Include="compare_the_triplets_easy.h" />
@@ -135,6 +135,7 @@
     <ClInclude Include="kangaroo_easy.h" />
     <ClInclude Include="migratory_birds_easy.h" />
     <ClInclude Include="mini_max_easy.h" />
+    <ClInclude Include="picking_numbers_easy.h" />
     <ClInclude Include="plus_minus_easy.h" />
     <ClInclude Include="simple_array_sum_easy.h" />
     <ClInclude Include="sock_merchant_easy.h" />

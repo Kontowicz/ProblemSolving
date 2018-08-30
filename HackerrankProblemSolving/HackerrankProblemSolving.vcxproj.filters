@@ -83,9 +83,6 @@
     <ClInclude Include="day_of_the_programmer_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="bon_appetit_easyh.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
     <ClInclude Include="sock_merchant_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
@@ -99,6 +96,12 @@
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
     <ClInclude Include="cats_and_a_mouse_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="bon_appetit_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="picking_numbers_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
   </ItemGroup>
