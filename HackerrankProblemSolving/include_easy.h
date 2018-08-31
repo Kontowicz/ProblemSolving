@@ -27,3 +27,5 @@
 #include "picking_numbers_easy.h"
 
 #include "utopian_tree_easy.h"
+#include "camelcase_easy.h"
+#include "pangrams_easy.h"
