@@ -25,3 +25,5 @@
 #include "electronics_shop_easy.h"
 #include "cats_and_a_mouse_easy.h"
 #include "picking_numbers_easy.h"
+
+#include "utopian_tree_easy.h"

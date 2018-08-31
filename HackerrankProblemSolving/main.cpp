@@ -28,6 +28,7 @@ void print()
 	cout << 23 << ": Electronic shop\n";
 	cout << 24 << ": Cats and a mouse\n";
 	cout << 25 << ": Picking numbers\n";
+	cout << 26 << ": Utopian tree\n";
 }
 
 int main()
@@ -67,6 +68,7 @@ int main()
 		case 23: _23::shop(); break;
 		case 24: _24::cat(); break;
 		case 25: _25::pick(); break;
+		case 26: _26::tree(); break;
 #pragma endregion 
 
 		case 0: break;
