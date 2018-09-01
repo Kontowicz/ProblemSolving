@@ -31,3 +31,4 @@
 #include "camelcase_easy.h"
 #include "pangrams_easy.h"
 #include "circular_array_rotation_easy.h"
+#include "minimum_distance_easy.h"
