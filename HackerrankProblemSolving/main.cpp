@@ -33,6 +33,7 @@ void print()
 	name.push_back("Pangrams");
 	name.push_back("Circular array rotation");
 	name.push_back("Minimum distances");
+	name.push_back("Beautiful triplets");
 	
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -97,6 +98,7 @@ int main()
 		case 28: _28::pangrams(); break;
 		case 29: _29::circular(); break;
 		case 30: _30::distance(); break;
+		case 31: _31::triplets(); break;
 #pragma endregion 
 
 		case 0: break;
