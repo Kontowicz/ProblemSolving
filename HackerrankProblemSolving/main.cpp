@@ -31,6 +31,7 @@ void print()
 	cout << 26 << ": Utopian tree\n";
 	cout << 27 << ": Camelcase\n";
 	cout << 28 << ": Pangrams\n";
+	cout << 29 << ": Circular array rotation\n";
 }
 
 int main()
@@ -44,6 +45,7 @@ int main()
 		cin.ignore();
 		switch (n)
 		{
+			
 #pragma region easy
 		case 1: _1::solve_me_first(); break;
 		case 2: _2::simple_array_sum(); break;
@@ -73,6 +75,7 @@ int main()
 		case 26: _26::tree(); break;
 		case 27: _27::camelcase(); break;
 		case 28: _28::pangrams(); break;
+		case 29: _29::circular(); break;
 #pragma endregion 
 
 		case 0: break;
