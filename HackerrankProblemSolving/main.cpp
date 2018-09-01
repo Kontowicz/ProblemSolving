@@ -2,37 +2,57 @@
 
 void print()
 {
-	cout << "-----EASY-----\n";
-	cout << 1 << ": Solve me first\n";
-	cout << 2 << ": Simple array sum\n";
-	cout << 3 << ": Compare the triplets\n";
-	cout << 4 << ": A very big sum\n";
-	cout << 5 << ": Diagonal difference\n";
-	cout << 6 << ": Plus minus\n";
-	cout << 7 << ": Staircase\n";
-	cout << 8 << ": Mini max\n";
-	cout << 9 << ": Birthday cake candles\n";
-	cout << 10 << ": Time conversion\n";
-	cout << 11 << ": Grading\n";
-	cout << 12 << ": Apple and orange\n";
-	cout << 13 << ": Kangaroo\n";
-	cout << 14 << ": Breaking best and worst records\n";
-	cout << 15 << ": The birthday bar\n";
-	cout << 16 << ": Divisible sum pairs\n";
-	cout << 17 << ": Migratory birds\n";
-	cout << 18 << ": Day of the programmer\n";
-	cout << 19 << ": Bon appetit\n";
-	cout << 20 << ": Sock merchant\n";
-	cout << 21 << ": Drawing book\n";
-	cout << 22 << ": Counting valleys\n";
-	cout << 23 << ": Electronic shop\n";
-	cout << 24 << ": Cats and a mouse\n";
-	cout << 25 << ": Picking numbers\n";
-	cout << 26 << ": Utopian tree\n";
-	cout << 27 << ": Camelcase\n";
-	cout << 28 << ": Pangrams\n";
-	cout << 29 << ": Circular array rotation\n";
-}
+	std::vector<std::string> name;
+	name.push_back("Solve me first");
+ 	name.push_back("Simple array sum");
+ 	name.push_back("Compare the triplets");
+	name.push_back("A very big sum");
+	name.push_back("Diagonal difference");
+	name.push_back("Plus minus");
+	name.push_back("Staircase");
+	name.push_back("Mini max");
+	name.push_back("Birthday cake candles");
+	name.push_back("Time conversion");
+	name.push_back("Grading");
+	name.push_back("Apple and orange");
+	name.push_back("Kangaroo");
+	name.push_back("Breaking best and worst records");
+	name.push_back("The birthday bar");
+	name.push_back("Divisible sum pairs");
+	name.push_back("Migratory birds");
+	name.push_back("Day of the programmer");
+	name.push_back("Bon appetit");
+	name.push_back("Sock merchant");
+	name.push_back("Drawing book");
+	name.push_back("Counting valleys");
+	name.push_back("Electronic shop");
+	name.push_back("Cats and a mouse");
+	name.push_back("Picking numbers");
+	name.push_back("Utopian tree");
+	name.push_back("Camelcase");
+	name.push_back("Pangrams");
+	name.push_back("Circular array rotation");
+	name.push_back("Minimum distances");
+	
+	int max_len = name[0].length();
+	for(auto it = name.begin(); it!=name.end(); ++it)
+	{
+		if(max_len< (*it).length())
+			max_len = (*it).length();
+	}
+	
+	cout.width(max_len );
+	cout << internal << "EASY\n";
+	
+	for(int i=1; i<name.size(); ++i)
+	{
+		cout.width(std::to_string(name.size()).length());
+		cout << left << i;
+		
+		cout.width(max_len + 2);
+		cout << internal << name[i] << "\n";
+	}
+ }
 
 int main()
 {
@@ -76,6 +96,7 @@ int main()
 		case 27: _27::camelcase(); break;
 		case 28: _28::pangrams(); break;
 		case 29: _29::circular(); break;
+		case 30: _30::distance(); break;
 #pragma endregion 
 
 		case 0: break;
