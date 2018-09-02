@@ -34,3 +34,4 @@
 #include "minimum_distance_easy.h"
 #include "beautiful_triplets_easy.h"
 #include "caesar_cipher_1_easy.h"
+#include "funny_string_easy.h"
