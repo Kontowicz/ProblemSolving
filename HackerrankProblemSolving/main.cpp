@@ -34,6 +34,7 @@ void print()
 	name.push_back("Circular array rotation");
 	name.push_back("Minimum distances");
 	name.push_back("Beautiful triplets");
+	name.push_back("Cesar cipher");
 	
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -99,6 +100,7 @@ int main()
 		case 29: _29::circular(); break;
 		case 30: _30::distance(); break;
 		case 31: _31::triplets(); break;
+		case 31: _32::cesar(); break;
 #pragma endregion 
 
 		case 0: break;
