@@ -104,5 +104,29 @@
     <ClInclude Include="picking_numbers_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
+    <ClInclude Include="utopian_tree_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="pangrams_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="minimum_distances_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="funny_string_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="circular_array_rotation_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="camelcase_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="caesar_cipher_1_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="beautiful_triplets_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

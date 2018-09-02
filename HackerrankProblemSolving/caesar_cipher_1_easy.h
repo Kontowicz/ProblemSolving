@@ -2,7 +2,7 @@
 
 namespace _32
 {
-	std::string caesarCipher(string s, int k)
+	std::string caesarCipher(std::string s, int k)
 	{
 		std::string encrypted = "";
 		for(auto letter : s)
@@ -27,14 +27,14 @@ namespace _32
 	{
 		int n;
 		std::cin >> n;
-		std::cin.ignore(std::numeric_limits<streamsize>::max(), '\n');
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
 		std::string s;
 		getline(std::cin, s);
 
 		int k;
 		std::cin >> k;
-		std::cin.ignore(numeric_limits<streamsize>::max(), '\n');
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
 		std::string result = caesarCipher(s, k);
 

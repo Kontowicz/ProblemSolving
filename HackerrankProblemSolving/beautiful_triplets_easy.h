@@ -1,9 +1,10 @@
 #pragma once
+#include <unordered_set>
 
 namespace _31
 {
 	int beautifulTriplets(int d, std::vector<int> arr) {
-	   std::map<int, int> my_set;
+	   std::unordered_set<int> my_set;
 		
 		int cnt(0);
 		
@@ -15,9 +16,7 @@ namespace _31
 			}
 			my_set.insert(num);
 		}
-		
 		return cnt;
-
 	}
 	
 	void triplets()
@@ -31,12 +30,12 @@ namespace _31
 
 		int d = stoi(nd[1]);
 
-		string arr_temp_temp;
+		std::string arr_temp_temp;
 		getline(std::cin, arr_temp_temp);
 
 		std::vector<std::string> arr_temp = split_string(arr_temp_temp);
 
-		vector<int> arr(n);
+		std::vector<int> arr(n);
 
 		for (int i = 0; i < n; i++) {
 			int arr_item = stoi(arr_temp[i]);

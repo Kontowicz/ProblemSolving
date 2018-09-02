@@ -45,15 +45,15 @@ void print()
 	}
 	
 	cout.width(max_len );
-	cout << internal << "EASY\n";
+	cout << std::internal << "EASY\n";
 	
 	for(int i=1; i<name.size(); ++i)
 	{
 		cout.width(std::to_string(name.size()).length());
-		cout << left << i;
+		cout << std::left << i;
 		
 		cout.width(max_len + 2);
-		cout << internal << name[i] << "\n";
+		cout << std::internal << name[i] << "\n";
 	}
  }
 

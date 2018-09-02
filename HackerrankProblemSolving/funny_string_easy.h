@@ -2,8 +2,7 @@
 
 namespace _33
 {
-	
-	string funnyString(string s) 
+	std::string funnyString(std::string s) 
 	{
 		int j = s.length()-1;
 		
@@ -30,7 +29,7 @@ namespace _33
 	{
 		 int q;
 		std::cin >> q;
-		std::cin.ignore(numeric_limits<streamsize>::max(), '\n');
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
 		for (int q_itr = 0; q_itr < q; q_itr++) {
 			std::string s;
@@ -38,7 +37,7 @@ namespace _33
 
 			std::string result = funnyString(s);
 
-			std::cout<< << result << "\n";
+			std::cout<< result << "\n";
 		}
 	}
 	

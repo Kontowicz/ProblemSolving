@@ -3,25 +3,25 @@
 namespace _30
 {
 	int minimumDistances(std::vector<int> a) {
-		std:map<int,pair<int, bool>> distance;
+		std::map<int, std::pair<int, bool>> distance;
 		
 		for(int i=0; i<a.size(); ++i)
 		{
 			if(distance.find(a[i])!=distance.end())
 			{
-				distance[a[i]] = pair<int, bool>(abs(get<0>(distance[a[i]])-i),true);
+				distance[a[i]] = std::pair<int, bool>(abs(std::get<0>(distance[a[i]])-i),true);
 			}else{
-				distance[a[i]] = pair<int,bool>(i,false);
+				distance[a[i]] = std::pair<int,bool>(i,false);
 			}
 		}
 		int min = a.size()+1;
 		
 		for(auto it = distance.begin(); it != distance.end(); ++it)
 		{
-			int aaaa = get<0>(it->second);
-			if(min > aaaa && get<1>(it->second)==true)
+			int aaaa = std::get<0>(it->second);
+			if(min > aaaa && std::get<1>(it->second)==true)
 			{
-				min = get<0>(it->second);
+				min = std::get<0>(it->second);
 			}
 		}
 		return min==a.size()+1?-1:min;
@@ -31,7 +31,7 @@ namespace _30
 	{
 		int n;
 		std::cin >> n;
-		std::cin.ignore(numeric_limits<streamsize>::max(), '\n');
+		std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
 		std::string a_temp_temp;
 		getline(cin, a_temp_temp);

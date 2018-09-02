@@ -1,8 +1,8 @@
 #pragma once
 
-namespace _27
+namespace _28
 {
-	string pangrams(string s) {
+	std::string pangrams(std::string s) {
 		std::map<char, int> tmp;
 		
 		for(int i=97; i<123; ++i){
@@ -25,12 +25,12 @@ namespace _27
 	
 	void pangrams()
 	{
-	std::string s;
-    getline(std::cin, s);
+		std::string s;
+		getline(std::cin, s);
 
-    string result = pangrams(s);
+		std::string result = pangrams(s);
 
-    std::cout << result << "\n";
+		std::cout << result << "\n";
 
 	}
 }

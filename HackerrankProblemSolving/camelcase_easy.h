@@ -2,7 +2,7 @@
 
 namespace _27
 {
-	int camelcase(string s) {
+	int camelcase(std::string s) {
 		int cnt(0);
 		for(auto cha: s){
 			if(static_cast<int>(cha)>=65 && static_cast<int>(cha)<=90)

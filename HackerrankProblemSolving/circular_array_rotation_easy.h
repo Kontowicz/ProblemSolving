@@ -67,7 +67,7 @@ namespace _29
 		for (int i = 0; i < q; i++) {
 			int queries_item;
 			std::cin >> queries_item;
-			std::cin.ignore(std::numeric_limits<streamsize>::max(), '\n');
+			std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 
 			queries[i] = queries_item;
 		}
@@ -78,7 +78,7 @@ namespace _29
 			std::cout << result[i];
 
 			if (i != result.size() - 1) {
-				fout << "\n";
+				std::cout << "\n";
 			}
 		}
 
