@@ -3,39 +3,40 @@
 void print()
 {
 	std::vector<std::string> name;
-	name.push_back("Solve me first");
- 	name.push_back("Simple array sum");
- 	name.push_back("Compare the triplets");
-	name.push_back("A very big sum");
-	name.push_back("Diagonal difference");
-	name.push_back("Plus minus");
-	name.push_back("Staircase");
-	name.push_back("Mini max");
-	name.push_back("Birthday cake candles");
-	name.push_back("Time conversion");
-	name.push_back("Grading");
-	name.push_back("Apple and orange");
-	name.push_back("Kangaroo");
-	name.push_back("Breaking best and worst records");
-	name.push_back("The birthday bar");
-	name.push_back("Divisible sum pairs");
-	name.push_back("Migratory birds");
-	name.push_back("Day of the programmer");
-	name.push_back("Bon appetit");
-	name.push_back("Sock merchant");
-	name.push_back("Drawing book");
-	name.push_back("Counting valleys");
-	name.push_back("Electronic shop");
-	name.push_back("Cats and a mouse");
-	name.push_back("Picking numbers");
-	name.push_back("Utopian tree");
-	name.push_back("Camelcase");
-	name.push_back("Pangrams");
-	name.push_back("Circular array rotation");
-	name.push_back("Minimum distances");
-	name.push_back("Beautiful triplets");
-	name.push_back("Cesar cipher");
-	name.push_back("Funny string");
+	name.emplace_back("Solve me first");
+ 	name.emplace_back("Simple array sum");
+ 	name.emplace_back("Compare the triplets");
+	name.emplace_back("A very big sum");
+	name.emplace_back("Diagonal difference");
+	name.emplace_back("Plus minus");
+	name.emplace_back("Staircase");
+	name.emplace_back("Mini max");
+	name.emplace_back("Birthday cake candles");
+	name.emplace_back("Time conversion");
+	name.emplace_back("Grading");
+	name.emplace_back("Apple and orange");
+	name.emplace_back("Kangaroo");
+	name.emplace_back("Breaking best and worst records");
+	name.emplace_back("The birthday bar");
+	name.emplace_back("Divisible sum pairs");
+	name.emplace_back("Migratory birds");
+	name.emplace_back("Day of the programmer");
+	name.emplace_back("Bon appetit");
+	name.emplace_back("Sock merchant");
+	name.emplace_back("Drawing book");
+	name.emplace_back("Counting valleys");
+	name.emplace_back("Electronic shop");
+	name.emplace_back("Cats and a mouse");
+	name.emplace_back("Picking numbers");
+	name.emplace_back("Utopian tree");
+	name.emplace_back("Camelcase");
+	name.emplace_back("Pangrams");
+	name.emplace_back("Circular array rotation");
+	name.emplace_back("Minimum distances");
+	name.emplace_back("Beautiful triplets");
+	name.emplace_back("Cesar cipher");
+	name.emplace_back("Funny string");
+	name.emplace_back("Repeated string");
 	
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -44,8 +45,9 @@ void print()
 			max_len = (*it).length();
 	}
 	
-	cout.width(max_len );
-	cout << std::internal << "EASY\n";
+	cout.width(max_len + std::to_string(name.size()).length() );
+
+	cout  << "EASY\n";
 	
 	for(int i=1; i<name.size(); ++i)
 	{
@@ -53,6 +55,7 @@ void print()
 		cout << std::left << i;
 		
 		cout.width(max_len + 2);
+		cout.fill('-');
 		cout << std::internal << name[i] << "\n";
 	}
  }
@@ -103,6 +106,7 @@ int main()
 		case 31: _31::triplets(); break;
 		case 32: _32::cesar(); break;
 		case 33: _33::funny(); break;
+		case 34: _34::repeated(); break;
 #pragma endregion 
 
 		case 0: break;
