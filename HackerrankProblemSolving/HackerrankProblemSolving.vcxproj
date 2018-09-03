@@ -144,6 +144,7 @@
     <ClInclude Include="pangrams_easy.h" />
     <ClInclude Include="picking_numbers_easy.h" />
     <ClInclude Include="plus_minus_easy.h" />
+    <ClInclude Include="repeated_string_easy.h" />
     <ClInclude Include="simple_array_sum_easy.h" />
     <ClInclude Include="sock_merchant_easy.h" />
     <ClInclude Include="solve_me_first_easy.h" />

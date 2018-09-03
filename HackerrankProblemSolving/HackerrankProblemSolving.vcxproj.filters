@@ -128,5 +128,8 @@
     <ClInclude Include="beautiful_triplets_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
+    <ClInclude Include="repeated_string_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
