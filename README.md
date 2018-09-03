@@ -30,10 +30,11 @@
 |24|[Pangrams ](https://www.hackerrank.com/challenges/pangrams/problem)|[MySolution](../master/HackerrankProblemSolving/pangrams_easy.h)|
 |25|[Picking numbers ](https://www.hackerrank.com/challenges/picking-numbers/problem)|[MySolution](../master/HackerrankProblemSolving/picking_numbers_easy.h)|
 |26|[Plus minus ](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/plus_minus_easy.h)|
-|27|[Simple array sum ](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[MySolution](../master/HackerrankProblemSolving/simple_array_sum_easy.h)|
-|28|[Sock merchant ](https://www.hackerrank.com/challenges/sock-merchant/problem)|[MySolution](../master/HackerrankProblemSolving/sock_merchant_easy.h)|
-|29|[Solve me first ](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_first_easy.h)|
-|30|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
-|31|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
-|32|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
-|33|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
+|27|[Repeated string ](https://www.hackerrank.com/challenges/repeated-string/problem)|[MySolution](../master/HackerrankProblemSolving/repeated_string_easy.h)|
+|28|[Simple array sum ](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[MySolution](../master/HackerrankProblemSolving/simple_array_sum_easy.h)|
+|29|[Sock merchant ](https://www.hackerrank.com/challenges/sock-merchant/problem)|[MySolution](../master/HackerrankProblemSolving/sock_merchant_easy.h)|
+|30|[Solve me first ](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_first_easy.h)|
+|31|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
+|32|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
+|33|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
+|34|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
