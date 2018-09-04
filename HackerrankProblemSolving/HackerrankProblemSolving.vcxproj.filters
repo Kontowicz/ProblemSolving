@@ -134,5 +134,8 @@
     <ClInclude Include="designer_pdf_viewer_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
+    <ClInclude Include="the_hurdle_race_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

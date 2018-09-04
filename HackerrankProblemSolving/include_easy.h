@@ -37,3 +37,4 @@
 #include "funny_string_easy.h"
 #include "repeated_string_easy.h"
 #include "designer_pdf_viewer_easy.h"
+#include "the_birthday_bar_easy.h"

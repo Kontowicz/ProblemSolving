@@ -152,6 +152,7 @@
     <ClInclude Include="staircase_easy.h" />
     <ClInclude Include="string_split.h" />
     <ClInclude Include="the_birthday_bar_easy.h" />
+    <ClInclude Include="the_hurdle_race_easy.h" />
     <ClInclude Include="time_conversion_easy.h" />
     <ClInclude Include="a_very_big_sum_easy.h" />
     <ClInclude Include="utopian_tree_easy.h" />

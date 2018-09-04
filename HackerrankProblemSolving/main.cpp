@@ -38,6 +38,7 @@ void print()
 	name.emplace_back("Funny string");
 	name.emplace_back("Repeated string");
 	name.emplace_back("Designer pdf viewer");
+	name.emplace_back("The birthday bar");
 	
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
