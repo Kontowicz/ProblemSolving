@@ -1,4 +1,5 @@
 #include "include_easy.h"
+#include "the_hurdle_race_easy.h"
 
 void print()
 {
@@ -39,6 +40,7 @@ void print()
 	name.emplace_back("Repeated string");
 	name.emplace_back("Designer pdf viewer");
 	name.emplace_back("The birthday bar");
+	name.emplace_back("Angry professor");
 	
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -109,6 +111,8 @@ int main()
 		case 32: _32::cesar(); break;
 		case 33: _33::funny(); break;
 		case 34: _34::repeated(); break;
+		case 35: _35::designer(); break;
+		case 36: _36::hurdle(); break;
 #pragma endregion 
 
 		case 0: break;
