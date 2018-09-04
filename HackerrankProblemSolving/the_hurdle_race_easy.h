@@ -13,7 +13,7 @@ namespace _36
 			if (max<e)
 				max = e;
 		}
-		return max - k;
+		return max - k>0 ? max - k : 0;
 	}
 	
 	void hurdle()
