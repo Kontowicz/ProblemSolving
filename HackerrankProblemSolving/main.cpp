@@ -37,6 +37,7 @@ void print()
 	name.emplace_back("Cesar cipher");
 	name.emplace_back("Funny string");
 	name.emplace_back("Repeated string");
+	name.emplace_back("Designer pdf viewer");
 	
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)

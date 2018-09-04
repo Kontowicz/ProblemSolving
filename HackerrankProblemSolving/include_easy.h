@@ -36,3 +36,4 @@
 #include "caesar_cipher_1_easy.h"
 #include "funny_string_easy.h"
 #include "repeated_string_easy.h"
+#include "designer_pdf_viewer_easy.h"
