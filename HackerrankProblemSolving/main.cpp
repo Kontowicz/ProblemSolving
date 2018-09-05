@@ -1,5 +1,6 @@
 #include "include_easy.h"
-#include "the_hurdle_race_easy.h"
+#include "angry_professor_easy.h"
+
 
 void print()
 {
@@ -41,7 +42,7 @@ void print()
 	name.emplace_back("Designer pdf viewer");
 	name.emplace_back("The birthday bar");
 	name.emplace_back("Angry professor");
-	
+	name.emplace_back("Beautiful days at the movies");
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
 	{
@@ -113,6 +114,8 @@ int main()
 		case 34: _34::repeated(); break;
 		case 35: _35::designer(); break;
 		case 36: _36::hurdle(); break;
+		case 37: _37::angry(); break;
+		case 38: _38::day(); break;
 #pragma endregion 
 
 		case 0: break;
@@ -120,4 +123,5 @@ int main()
 	} while (n > 0);
 	return 0;
 }
+
 
