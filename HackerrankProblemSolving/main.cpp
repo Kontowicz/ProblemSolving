@@ -43,6 +43,7 @@ void print()
 	name.emplace_back("The birthday bar");
 	name.emplace_back("Angry professor");
 	name.emplace_back("Beautiful days at the movies");
+	name.emplace_back("Strange advertising");
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
 	{
@@ -116,6 +117,7 @@ int main()
 		case 36: _36::hurdle(); break;
 		case 37: _37::angry(); break;
 		case 38: _38::day(); break;
+		case 39: _39::viral(); break;
 #pragma endregion 
 
 		case 0: break;
@@ -123,5 +125,6 @@ int main()
 	} while (n > 0);
 	return 0;
 }
+
 
 

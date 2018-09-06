@@ -120,6 +120,7 @@
   <ItemGroup>
     <ClInclude Include="angry_professor_easy.h" />
     <ClInclude Include="apple_and_orange_easy.h" />
+    <ClInclude Include="beautiful_days_at_the_movies_easy.h" />
     <ClInclude Include="beautiful_triplets_easy.h" />
     <ClInclude Include="birthday_cake_candles_easy.h" />
     <ClInclude Include="bon_appetit_easy.h" />
@@ -151,6 +152,7 @@
     <ClInclude Include="sock_merchant_easy.h" />
     <ClInclude Include="solve_me_first_easy.h" />
     <ClInclude Include="staircase_easy.h" />
+    <ClInclude Include="strange_advertising_easy.h" />
     <ClInclude Include="string_split.h" />
     <ClInclude Include="the_birthday_bar_easy.h" />
     <ClInclude Include="the_hurdle_race_easy.h" />

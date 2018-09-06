@@ -40,3 +40,4 @@
 #include "the_birthday_bar_easy.h"
 #include "the_hurdle_race_easy.h"
 #include "beautiful_days_at_the_movies_easy.h"
+#include "strange_advertising_easy.h"
