@@ -1,5 +1,6 @@
 #include "include_easy.h"
 #include "angry_professor_easy.h"
+#include "tutorial_intro_easy.h"
 
 
 void print()
@@ -44,6 +45,8 @@ void print()
 	name.emplace_back("Angry professor");
 	name.emplace_back("Beautiful days at the movies");
 	name.emplace_back("Strange advertising");
+	name.emplace_back("Tutorial intro");
+
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
 	{
@@ -118,6 +121,7 @@ int main()
 		case 37: _37::angry(); break;
 		case 38: _38::day(); break;
 		case 39: _39::viral(); break;
+		case 40: _40::tutorial(); break;
 #pragma endregion 
 
 		case 0: break;

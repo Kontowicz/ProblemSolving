@@ -158,6 +158,7 @@
     <ClInclude Include="the_hurdle_race_easy.h" />
     <ClInclude Include="time_conversion_easy.h" />
     <ClInclude Include="a_very_big_sum_easy.h" />
+    <ClInclude Include="tutorial_intro_easy.h" />
     <ClInclude Include="utopian_tree_easy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

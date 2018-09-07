@@ -146,5 +146,8 @@
     <ClInclude Include="strange_advertising_easy.h">
       <Filter>Pliki zasobów</Filter>
     </ClInclude>
+    <ClInclude Include="tutorial_intro_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
