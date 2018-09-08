@@ -160,6 +160,7 @@
     <ClInclude Include="strong_password_easy.h" />
     <ClInclude Include="the_birthday_bar_easy.h" />
     <ClInclude Include="the_hurdle_race_easy.h" />
+    <ClInclude Include="the_love_letter_mystery_easy.h" />
     <ClInclude Include="time_conversion_easy.h" />
     <ClInclude Include="a_very_big_sum_easy.h" />
     <ClInclude Include="tutorial_intro_easy.h" />

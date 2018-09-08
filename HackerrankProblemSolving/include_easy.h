@@ -47,3 +47,4 @@
 #include "angry_professor_easy.h"
 #include "tutorial_intro_easy.h"
 #include "strong_password_easy.h"
+#include "the_love_letter_mystery_easy.h"
