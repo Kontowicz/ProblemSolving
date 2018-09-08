@@ -155,5 +155,8 @@
     <ClInclude Include="cut_the_sticks_easy.h">
       <Filter>Pliki zasobów</Filter>
     </ClInclude>
+    <ClInclude Include="service_lane_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

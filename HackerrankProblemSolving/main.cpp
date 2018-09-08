@@ -1,6 +1,5 @@
 #include "include_easy.h"
-#include "angry_professor_easy.h"
-#include "tutorial_intro_easy.h"
+
 
 
 void print()
@@ -48,7 +47,8 @@ void print()
 	name.emplace_back("Tutorial intro");
 	name.emplace_back("Jumping on the clouds");
 	name.emplace_back("Cut the sticks");
-
+	name.emplace_back("Service lane");
+#pragma region print
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
 	{
@@ -69,6 +69,7 @@ void print()
 		cout.fill('-');
 		cout << std::internal << name[i] << "\n";
 	}
+#pragma endregion 
  }
 
 int main()
@@ -126,6 +127,7 @@ int main()
 		case 40: _40::tutorial(); break;
 		case 41: _41::jumping(); break;
 		case 42: _42::cut(); break;
+		case 43: _43::service(); break;
 #pragma endregion 
 
 		case 0: break;

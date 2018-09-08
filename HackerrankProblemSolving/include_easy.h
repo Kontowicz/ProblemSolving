@@ -43,3 +43,6 @@
 #include "strange_advertising_easy.h"
 #include "jumping_on_the_clouds_revisited_easy.h"
 #include "cut_the_sticks_easy.h"
+#include "service_lane_easy.h"
+#include "angry_professor_easy.h"
+#include "tutorial_intro_easy.h"
