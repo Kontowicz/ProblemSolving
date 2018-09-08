@@ -152,5 +152,8 @@
     <ClInclude Include="jumping_on_the_clouds_revisited_easy.h">
       <Filter>Pliki zasobów</Filter>
     </ClInclude>
+    <ClInclude Include="cut_the_sticks_easy.h">
+      <Filter>Pliki zasobów</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

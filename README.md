@@ -18,30 +18,31 @@
 |12|[Circular array rotation ](https://www.hackerrank.com/challenges/circular-array-rotation/problem)|[MySolution](../master/HackerrankProblemSolving/circular_array_rotation_easy.h)|
 |13|[Compare the triplets ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[MySolution](../master/HackerrankProblemSolving/compare_the_triplets_easy.h)|
 |14|[Counting valleys ](https://www.hackerrank.com/challenges/counting-valleys/problem)|[MySolution](../master/HackerrankProblemSolving/counting_valleys_easy.h)|
-|15|[Day of the programmer ](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[MySolution](../master/HackerrankProblemSolving/day_of_the_programmer_easy.h)|
-|16|[Designer pdf viewer ](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|[MySolution](../master/HackerrankProblemSolving/designer_pdf_viewer_easy.h)|
-|17|[Diagonal difference ](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[MySolution](../master/HackerrankProblemSolving/diagonal_difference_easy.h)|
-|18|[Divisible sum pairs ](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[MySolution](../master/HackerrankProblemSolving/divisible_sum_pairs_easy.h)|
-|19|[Drawing book ](https://www.hackerrank.com/challenges/drawing-book/problem)|[MySolution](../master/HackerrankProblemSolving/drawing_book_easy.h)|
-|20|[Electronics shop ](https://www.hackerrank.com/challenges/electronics-shop/problem)|[MySolution](../master/HackerrankProblemSolving/electronics_shop_easy.h)|
-|21|[Funny string ](https://www.hackerrank.com/challenges/funny-string/problem)|[MySolution](../master/HackerrankProblemSolving/funny_string_easy.h)|
-|22|[Grading ](https://www.hackerrank.com/challenges/grading/problem)|[MySolution](../master/HackerrankProblemSolving/grading_easy.h)|
-|23|[Jumping on the clouds revisited ](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)|[MySolution](../master/HackerrankProblemSolving/jumping_on_the_clouds_revisited_easy.h)|
-|24|[Kangaroo ](https://www.hackerrank.com/challenges/kangaroo/problem)|[MySolution](../master/HackerrankProblemSolving/kangaroo_easy.h)|
-|25|[Migratory birds ](https://www.hackerrank.com/challenges/migratory-birds/problem)|[MySolution](../master/HackerrankProblemSolving/migratory_birds_easy.h)|
-|26|[Minimum distances ](https://www.hackerrank.com/challenges/minimum-distances/problem)|[MySolution](../master/HackerrankProblemSolving/minimum_distances_easy.h)|
-|27|[Mini max ](https://www.hackerrank.com/challenges/mini-max/problem)|[MySolution](../master/HackerrankProblemSolving/mini_max_easy.h)|
-|28|[Pangrams ](https://www.hackerrank.com/challenges/pangrams/problem)|[MySolution](../master/HackerrankProblemSolving/pangrams_easy.h)|
-|29|[Picking numbers ](https://www.hackerrank.com/challenges/picking-numbers/problem)|[MySolution](../master/HackerrankProblemSolving/picking_numbers_easy.h)|
-|30|[Plus minus ](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/plus_minus_easy.h)|
-|31|[Repeated string ](https://www.hackerrank.com/challenges/repeated-string/problem)|[MySolution](../master/HackerrankProblemSolving/repeated_string_easy.h)|
-|32|[Simple array sum ](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[MySolution](../master/HackerrankProblemSolving/simple_array_sum_easy.h)|
-|33|[Sock merchant ](https://www.hackerrank.com/challenges/sock-merchant/problem)|[MySolution](../master/HackerrankProblemSolving/sock_merchant_easy.h)|
-|34|[Solve me first ](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_first_easy.h)|
-|35|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
-|36|[Strange advertising ](https://www.hackerrank.com/challenges/strange-advertising/problem)|[MySolution](../master/HackerrankProblemSolving/strange_advertising_easy.h)|
-|37|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
-|38|[The hurdle race ](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[MySolution](../master/HackerrankProblemSolving/the_hurdle_race_easy.h)|
-|39|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
-|40|[Tutorial intro ](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[MySolution](../master/HackerrankProblemSolving/tutorial_intro_easy.h)|
-|41|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
+|15|[Cut the sticks ](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|[MySolution](../master/HackerrankProblemSolving/cut_the_sticks_easy.h)|
+|16|[Day of the programmer ](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|[MySolution](../master/HackerrankProblemSolving/day_of_the_programmer_easy.h)|
+|17|[Designer pdf viewer ](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)|[MySolution](../master/HackerrankProblemSolving/designer_pdf_viewer_easy.h)|
+|18|[Diagonal difference ](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[MySolution](../master/HackerrankProblemSolving/diagonal_difference_easy.h)|
+|19|[Divisible sum pairs ](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[MySolution](../master/HackerrankProblemSolving/divisible_sum_pairs_easy.h)|
+|20|[Drawing book ](https://www.hackerrank.com/challenges/drawing-book/problem)|[MySolution](../master/HackerrankProblemSolving/drawing_book_easy.h)|
+|21|[Electronics shop ](https://www.hackerrank.com/challenges/electronics-shop/problem)|[MySolution](../master/HackerrankProblemSolving/electronics_shop_easy.h)|
+|22|[Funny string ](https://www.hackerrank.com/challenges/funny-string/problem)|[MySolution](../master/HackerrankProblemSolving/funny_string_easy.h)|
+|23|[Grading ](https://www.hackerrank.com/challenges/grading/problem)|[MySolution](../master/HackerrankProblemSolving/grading_easy.h)|
+|24|[Jumping on the clouds revisited ](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)|[MySolution](../master/HackerrankProblemSolving/jumping_on_the_clouds_revisited_easy.h)|
+|25|[Kangaroo ](https://www.hackerrank.com/challenges/kangaroo/problem)|[MySolution](../master/HackerrankProblemSolving/kangaroo_easy.h)|
+|26|[Migratory birds ](https://www.hackerrank.com/challenges/migratory-birds/problem)|[MySolution](../master/HackerrankProblemSolving/migratory_birds_easy.h)|
+|27|[Minimum distances ](https://www.hackerrank.com/challenges/minimum-distances/problem)|[MySolution](../master/HackerrankProblemSolving/minimum_distances_easy.h)|
+|28|[Mini max ](https://www.hackerrank.com/challenges/mini-max/problem)|[MySolution](../master/HackerrankProblemSolving/mini_max_easy.h)|
+|29|[Pangrams ](https://www.hackerrank.com/challenges/pangrams/problem)|[MySolution](../master/HackerrankProblemSolving/pangrams_easy.h)|
+|30|[Picking numbers ](https://www.hackerrank.com/challenges/picking-numbers/problem)|[MySolution](../master/HackerrankProblemSolving/picking_numbers_easy.h)|
+|31|[Plus minus ](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/plus_minus_easy.h)|
+|32|[Repeated string ](https://www.hackerrank.com/challenges/repeated-string/problem)|[MySolution](../master/HackerrankProblemSolving/repeated_string_easy.h)|
+|33|[Simple array sum ](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[MySolution](../master/HackerrankProblemSolving/simple_array_sum_easy.h)|
+|34|[Sock merchant ](https://www.hackerrank.com/challenges/sock-merchant/problem)|[MySolution](../master/HackerrankProblemSolving/sock_merchant_easy.h)|
+|35|[Solve me first ](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_first_easy.h)|
+|36|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
+|37|[Strange advertising ](https://www.hackerrank.com/challenges/strange-advertising/problem)|[MySolution](../master/HackerrankProblemSolving/strange_advertising_easy.h)|
+|38|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
+|39|[The hurdle race ](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[MySolution](../master/HackerrankProblemSolving/the_hurdle_race_easy.h)|
+|40|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
+|41|[Tutorial intro ](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[MySolution](../master/HackerrankProblemSolving/tutorial_intro_easy.h)|
+|42|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|

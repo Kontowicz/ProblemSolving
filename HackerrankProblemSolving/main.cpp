@@ -47,6 +47,7 @@ void print()
 	name.emplace_back("Strange advertising");
 	name.emplace_back("Tutorial intro");
 	name.emplace_back("Jumping on the clouds");
+	name.emplace_back("Cut the sticks");
 
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -124,6 +125,7 @@ int main()
 		case 39: _39::viral(); break;
 		case 40: _40::tutorial(); break;
 		case 41: _41::jumping(); break;
+		case 42: _42::cut(); break;
 #pragma endregion 
 
 		case 0: break;
@@ -131,4 +133,3 @@ int main()
 	} while (n > 0);
 	return 0;
 }
-

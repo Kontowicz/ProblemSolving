@@ -42,3 +42,4 @@
 #include "beautiful_days_at_the_movies_easy.h"
 #include "strange_advertising_easy.h"
 #include "jumping_on_the_clouds_revisited_easy.h"
+#include "cut_the_sticks_easy.h"
