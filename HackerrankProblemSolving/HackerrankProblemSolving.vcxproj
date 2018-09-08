@@ -140,6 +140,7 @@
     <ClInclude Include="funny_string_easy.h" />
     <ClInclude Include="grading_easy.h" />
     <ClInclude Include="include_easy.h" />
+    <ClInclude Include="jumping_on_the_clouds_revisited_easy.h" />
     <ClInclude Include="kangaroo_easy.h" />
     <ClInclude Include="migratory_birds_easy.h" />
     <ClInclude Include="minimum_distances_easy.h" />
