@@ -42,8 +42,9 @@
 |36|[Solve me first ](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_first_easy.h)|
 |37|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
 |38|[Strange advertising ](https://www.hackerrank.com/challenges/strange-advertising/problem)|[MySolution](../master/HackerrankProblemSolving/strange_advertising_easy.h)|
-|39|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
-|40|[The hurdle race ](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[MySolution](../master/HackerrankProblemSolving/the_hurdle_race_easy.h)|
-|41|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
-|42|[Tutorial intro ](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[MySolution](../master/HackerrankProblemSolving/tutorial_intro_easy.h)|
-|43|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
+|39|[Strong password ](https://www.hackerrank.com/challenges/strong-password/problem)|[MySolution](../master/HackerrankProblemSolving/strong_password_easy.h)|
+|40|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
+|41|[The hurdle race ](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[MySolution](../master/HackerrankProblemSolving/the_hurdle_race_easy.h)|
+|42|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
+|43|[Tutorial intro ](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[MySolution](../master/HackerrankProblemSolving/tutorial_intro_easy.h)|
+|44|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|

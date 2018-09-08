@@ -46,3 +46,4 @@
 #include "service_lane_easy.h"
 #include "angry_professor_easy.h"
 #include "tutorial_intro_easy.h"
+#include "strong_password_easy.h"

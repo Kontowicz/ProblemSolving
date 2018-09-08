@@ -48,6 +48,7 @@ void print()
 	name.emplace_back("Jumping on the clouds");
 	name.emplace_back("Cut the sticks");
 	name.emplace_back("Service lane");
+	name.emplace_back("Strong password");
 #pragma region print
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -128,6 +129,7 @@ int main()
 		case 41: _41::jumping(); break;
 		case 42: _42::cut(); break;
 		case 43: _43::service(); break;
+		case 44: _44::strong(); break;
 #pragma endregion 
 
 		case 0: break;
