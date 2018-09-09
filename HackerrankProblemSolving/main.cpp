@@ -53,6 +53,7 @@ void print()
 	name.emplace_back("Jumping on the clouds");
 	name.emplace_back("Hackerrank in a string");
 	name.emplace_back("Save the prisoner");
+	name.emplace_back("Permutatuin equation");
 #pragma region print
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -138,8 +139,9 @@ int main()
 		case 46: _46::jumping(); break;
 		case 47: _47::string(); break;
 		case 48: _48::save(); break;
+		case 49: _49::permutation(); break;
 #pragma endregion 
-
+			
 		case 0: break;
 		}
 	} while (n > 0);

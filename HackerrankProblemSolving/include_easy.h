@@ -50,3 +50,4 @@
 #include "the_love_letter_mystery_easy.h"
 #include "jumping_on_the_clouds_easy.h"
 #include  "save_the_prisoner_easy.h"
+#include "permutation_equation_easy.h"
