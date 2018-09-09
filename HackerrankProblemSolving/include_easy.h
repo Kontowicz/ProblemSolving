@@ -25,8 +25,6 @@
 #include "electronics_shop_easy.h"
 #include "cats_and_a_mouse_easy.h"
 #include "picking_numbers_easy.h"
-
-
 #include "utopian_tree_easy.h"
 #include "camelcase_easy.h"
 #include "pangrams_easy.h"
@@ -51,3 +49,4 @@
 #include "jumping_on_the_clouds_easy.h"
 #include  "save_the_prisoner_easy.h"
 #include "permutation_equation_easy.h"
+#include "find_digits_easy.h"
