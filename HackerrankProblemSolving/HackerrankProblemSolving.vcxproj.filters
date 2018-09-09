@@ -143,17 +143,8 @@
     <ClInclude Include="beautiful_days_at_the_movies_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="strange_advertising_easy.h">
-      <Filter>Pliki zasobów</Filter>
-    </ClInclude>
     <ClInclude Include="tutorial_intro_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="jumping_on_the_clouds_revisited_easy.h">
-      <Filter>Pliki zasobów</Filter>
-    </ClInclude>
-    <ClInclude Include="cut_the_sticks_easy.h">
-      <Filter>Pliki zasobów</Filter>
     </ClInclude>
     <ClInclude Include="service_lane_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
@@ -162,6 +153,18 @@
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
     <ClInclude Include="the_love_letter_mystery_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="jumping_on_the_clouds_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="cut_the_sticks_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="jumping_on_the_clouds_revisited_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="strange_advertising_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
   </ItemGroup>

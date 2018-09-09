@@ -45,11 +45,12 @@ void print()
 	name.emplace_back("Beautiful days at the movies");
 	name.emplace_back("Strange advertising");
 	name.emplace_back("Tutorial intro");
-	name.emplace_back("Jumping on the clouds");
+	name.emplace_back("Jumping on the clouds revisited");
 	name.emplace_back("Cut the sticks");
 	name.emplace_back("Service lane");
 	name.emplace_back("Strong password");
 	name.emplace_back("The love letter mystery");
+	name.emplace_back("Jumping on the clouds");
 #pragma region print
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -132,6 +133,7 @@ int main()
 		case 43: _43::service(); break;
 		case 44: _44::strong(); break;
 		case 45: _45::love(); break;
+		case 46: _46::jumping(); break;
 #pragma endregion 
 
 		case 0: break;
