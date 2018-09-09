@@ -52,6 +52,7 @@ void print()
 	name.emplace_back("The love letter mystery");
 	name.emplace_back("Jumping on the clouds");
 	name.emplace_back("Hackerrank in a string");
+	name.emplace_back("Save the prisoner");
 #pragma region print
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -136,6 +137,7 @@ int main()
 		case 45: _45::love(); break;
 		case 46: _46::jumping(); break;
 		case 47: _47::string(); break;
+		case 48: _48::save(); break;
 #pragma endregion 
 
 		case 0: break;

@@ -152,6 +152,7 @@
     <ClInclude Include="picking_numbers_easy.h" />
     <ClInclude Include="plus_minus_easy.h" />
     <ClInclude Include="repeated_string_easy.h" />
+    <ClInclude Include="save_the_prisoner_easy.h" />
     <ClInclude Include="service_lane_easy.h" />
     <ClInclude Include="simple_array_sum_easy.h" />
     <ClInclude Include="sock_merchant_easy.h" />

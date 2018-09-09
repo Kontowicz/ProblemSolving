@@ -38,16 +38,17 @@
 |32|[Picking numbers ](https://www.hackerrank.com/challenges/picking-numbers/problem)|[MySolution](../master/HackerrankProblemSolving/picking_numbers_easy.h)|
 |33|[Plus minus ](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/plus_minus_easy.h)|
 |34|[Repeated string ](https://www.hackerrank.com/challenges/repeated-string/problem)|[MySolution](../master/HackerrankProblemSolving/repeated_string_easy.h)|
-|35|[Service lane ](https://www.hackerrank.com/challenges/service-lane/problem)|[MySolution](../master/HackerrankProblemSolving/service_lane_easy.h)|
-|36|[Simple array sum ](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[MySolution](../master/HackerrankProblemSolving/simple_array_sum_easy.h)|
-|37|[Sock merchant ](https://www.hackerrank.com/challenges/sock-merchant/problem)|[MySolution](../master/HackerrankProblemSolving/sock_merchant_easy.h)|
-|38|[Solve me first ](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_first_easy.h)|
-|39|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
-|40|[Strange advertising ](https://www.hackerrank.com/challenges/strange-advertising/problem)|[MySolution](../master/HackerrankProblemSolving/strange_advertising_easy.h)|
-|41|[Strong password ](https://www.hackerrank.com/challenges/strong-password/problem)|[MySolution](../master/HackerrankProblemSolving/strong_password_easy.h)|
-|42|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
-|43|[The hurdle race ](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[MySolution](../master/HackerrankProblemSolving/the_hurdle_race_easy.h)|
-|44|[The love letter mystery ](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[MySolution](../master/HackerrankProblemSolving/the_love_letter_mystery_easy.h)|
-|45|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
-|46|[Tutorial intro ](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[MySolution](../master/HackerrankProblemSolving/tutorial_intro_easy.h)|
-|47|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
+|35|[Save the prisoner ](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[MySolution](../master/HackerrankProblemSolving/save_the_prisoner_easy.h)|
+|36|[Service lane ](https://www.hackerrank.com/challenges/service-lane/problem)|[MySolution](../master/HackerrankProblemSolving/service_lane_easy.h)|
+|37|[Simple array sum ](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[MySolution](../master/HackerrankProblemSolving/simple_array_sum_easy.h)|
+|38|[Sock merchant ](https://www.hackerrank.com/challenges/sock-merchant/problem)|[MySolution](../master/HackerrankProblemSolving/sock_merchant_easy.h)|
+|39|[Solve me first ](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_first_easy.h)|
+|40|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
+|41|[Strange advertising ](https://www.hackerrank.com/challenges/strange-advertising/problem)|[MySolution](../master/HackerrankProblemSolving/strange_advertising_easy.h)|
+|42|[Strong password ](https://www.hackerrank.com/challenges/strong-password/problem)|[MySolution](../master/HackerrankProblemSolving/strong_password_easy.h)|
+|43|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
+|44|[The hurdle race ](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[MySolution](../master/HackerrankProblemSolving/the_hurdle_race_easy.h)|
+|45|[The love letter mystery ](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[MySolution](../master/HackerrankProblemSolving/the_love_letter_mystery_easy.h)|
+|46|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
+|47|[Tutorial intro ](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[MySolution](../master/HackerrankProblemSolving/tutorial_intro_easy.h)|
+|48|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
