@@ -57,6 +57,7 @@ void print()
 	name.emplace_back("find digits");
 	name.emplace_back("append and delete");
 	name.emplace_back("sherlock and squares");
+	name.emplace_back("equality in a array");
 #pragma region print
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -146,6 +147,7 @@ int main()
 		case 50: _50::find_digit(); break;
 		case 51: _51::append(); break;
 		case 52: _52::sherlock(); break;
+		case 53: _53::equality(); break;
 #pragma endregion 
 			
 		case 0: break;

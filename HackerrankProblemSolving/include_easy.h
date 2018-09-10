@@ -55,3 +55,4 @@
 #include "find_digits_easy.h"
 #include "append_and_delete_easy.h"
 #include "sherlock_and_squares_easy.h"
+#include "equality_in_a_array_easy.h"
