@@ -129,6 +129,7 @@
     <ClInclude Include="caesar_cipher_1_easy.h" />
     <ClInclude Include="camelcase_easy.h" />
     <ClInclude Include="cats_and_a_mouse_easy.h" />
+    <ClInclude Include="cavity_map_easy.h" />
     <ClInclude Include="chocolate_feast_easy.h" />
     <ClInclude Include="circular_array_rotation_easy.h" />
     <ClInclude Include="compare_the_triplets_easy.h" />

@@ -60,6 +60,7 @@ void print()
 	name.emplace_back("sherlock and squares");
 	name.emplace_back("equality in a array");
 	name.emplace_back("chocolate fest");
+	name.emplace_back("cavity map");
 #pragma region print
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -151,6 +152,7 @@ int main()
 		case 52: _52::sherlock(); break;
 		case 53: _53::equality(); break;
 		case 54: _54::fest(); break;
+		case 55: _55::cavity_map(); break;
 #pragma endregion 
 			
 		case 0: break;

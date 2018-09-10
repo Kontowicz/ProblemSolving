@@ -56,3 +56,4 @@
 #include "append_and_delete_easy.h"
 #include "sherlock_and_squares_easy.h"
 #include "equality_in_a_array_easy.h"
+#include "cavity_map_easy.h"
