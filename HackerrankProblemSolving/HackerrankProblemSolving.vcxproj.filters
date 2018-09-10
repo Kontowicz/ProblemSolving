@@ -149,9 +149,6 @@
     <ClInclude Include="service_lane_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="strong_password_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
     <ClInclude Include="the_love_letter_mystery_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
@@ -167,26 +164,32 @@
     <ClInclude Include="strange_advertising_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="hackerrank_in_a_string_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="save_the_prisoner_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="permutation_equation_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="find_digits_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
     <ClInclude Include="append_and_delete_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="sherlock_and_squares_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
     <ClInclude Include="equality_in_a_array_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="sherlock_and_squares_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="hackerrank_in_a_string_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="permutation_equation_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="save_the_prisoner_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="find_digits_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="strong_password_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="chocolate_feast_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
