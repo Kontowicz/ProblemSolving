@@ -5,56 +5,57 @@
 void print()
 {
 	std::vector<std::string> name;
-	name.emplace_back("Solve me first");
- 	name.emplace_back("Simple array sum");
- 	name.emplace_back("Compare the triplets");
-	name.emplace_back("A very big sum");
-	name.emplace_back("Diagonal difference");
-	name.emplace_back("Plus minus");
-	name.emplace_back("Staircase");
-	name.emplace_back("Mini max");
-	name.emplace_back("Birthday cake candles");
-	name.emplace_back("Time conversion");
-	name.emplace_back("Grading");
-	name.emplace_back("Apple and orange");
-	name.emplace_back("Kangaroo");
-	name.emplace_back("Breaking best and worst records");
-	name.emplace_back("The birthday bar");
-	name.emplace_back("Divisible sum pairs");
-	name.emplace_back("Migratory birds");
-	name.emplace_back("Day of the programmer");
-	name.emplace_back("Bon appetit");
-	name.emplace_back("Sock merchant");
-	name.emplace_back("Drawing book");
-	name.emplace_back("Counting valleys");
-	name.emplace_back("Electronic shop");
-	name.emplace_back("Cats and a mouse");
-	name.emplace_back("Picking numbers");
-	name.emplace_back("Utopian tree");
-	name.emplace_back("Camelcase");
-	name.emplace_back("Pangrams");
-	name.emplace_back("Circular array rotation");
-	name.emplace_back("Minimum distances");
-	name.emplace_back("Beautiful triplets");
-	name.emplace_back("Cesar cipher");
-	name.emplace_back("Funny string");
-	name.emplace_back("Repeated string");
-	name.emplace_back("Designer pdf viewer");
-	name.emplace_back("The birthday bar");
-	name.emplace_back("Angry professor");
-	name.emplace_back("Beautiful days at the movies");
-	name.emplace_back("Strange advertising");
-	name.emplace_back("Tutorial intro");
-	name.emplace_back("Jumping on the clouds revisited");
-	name.emplace_back("Cut the sticks");
-	name.emplace_back("Service lane");
-	name.emplace_back("Strong password");
-	name.emplace_back("The love letter mystery");
-	name.emplace_back("Jumping on the clouds");
-	name.emplace_back("Hackerrank in a string");
-	name.emplace_back("Save the prisoner");
-	name.emplace_back("Permutatuin equation");
-	name.emplace_back("Find digits");
+	name.emplace_back("solve me first");
+ 	name.emplace_back("simple array sum");
+ 	name.emplace_back("compare the triplets");
+	name.emplace_back("a very big sum");
+	name.emplace_back("diagonal difference");
+	name.emplace_back("plus minus");
+	name.emplace_back("staircase");
+	name.emplace_back("mini max");
+	name.emplace_back("birthday cake candles");
+	name.emplace_back("time conversion");
+	name.emplace_back("grading");
+	name.emplace_back("apple and orange");
+	name.emplace_back("kangaroo");
+	name.emplace_back("breaking best and worst records");
+	name.emplace_back("the birthday bar");
+	name.emplace_back("divisible sum pairs");
+	name.emplace_back("migratory birds");
+	name.emplace_back("day of the programmer");
+	name.emplace_back("bon appetit");
+	name.emplace_back("sock merchant");
+	name.emplace_back("drawing book");
+	name.emplace_back("counting valleys");
+	name.emplace_back("electronic shop");
+	name.emplace_back("cats and a mouse");
+	name.emplace_back("picking numbers");
+	name.emplace_back("utopian tree");
+	name.emplace_back("camelcase");
+	name.emplace_back("pangrams");
+	name.emplace_back("circular array rotation");
+	name.emplace_back("minimum distances");
+	name.emplace_back("beautiful triplets");
+	name.emplace_back("cesar cipher");
+	name.emplace_back("funny string");
+	name.emplace_back("repeated string");
+	name.emplace_back("designer pdf viewer");
+	name.emplace_back("the birthday bar");
+	name.emplace_back("angry professor");
+	name.emplace_back("beautiful days at the movies");
+	name.emplace_back("strange advertising");
+	name.emplace_back("tutorial intro");
+	name.emplace_back("jumping on the clouds revisited");
+	name.emplace_back("cut the sticks");
+	name.emplace_back("service lane");
+	name.emplace_back("strong password");
+	name.emplace_back("the love letter mystery");
+	name.emplace_back("jumping on the clouds");
+	name.emplace_back("hackerrank in a string");
+	name.emplace_back("save the prisoner");
+	name.emplace_back("permutatuin equation");
+	name.emplace_back("find digits");
+	name.emplace_back("append and delete");
 #pragma region print
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -65,12 +66,12 @@ void print()
 	
 	cout.width(max_len + std::to_string(name.size()).length() );
 
-	cout  << "EASY\n";
-	
-	for(int i=1; i<name.size(); ++i)
+	cout  << "easy\n";
+	int cnt(1);
+	for(int i=0; i<name.size(); ++i)
 	{
 		cout.width(std::to_string(name.size()).length());
-		cout << std::left << i;
+		cout << std::left << cnt++;
 		
 		cout.width(max_len + 2);
 		cout.fill('-');
@@ -142,6 +143,7 @@ int main()
 		case 48: _48::save(); break;
 		case 49: _49::permutation(); break;
 		case 50: _50::find_digit(); break;
+		case 51: {_51::append(); }break;
 #pragma endregion 
 			
 		case 0: break;

@@ -119,6 +119,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="angry_professor_easy.h" />
+    <ClInclude Include="append_and_delete_easy.h" />
     <ClInclude Include="apple_and_orange_easy.h" />
     <ClInclude Include="beautiful_days_at_the_movies_easy.h" />
     <ClInclude Include="beautiful_triplets_easy.h" />

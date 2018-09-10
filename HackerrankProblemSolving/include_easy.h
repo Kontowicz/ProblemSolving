@@ -1,3 +1,6 @@
+
+
+
 #pragma once
 
 #include "solve_me_first_easy.h"
@@ -50,3 +53,4 @@
 #include  "save_the_prisoner_easy.h"
 #include "permutation_equation_easy.h"
 #include "find_digits_easy.h"
+#include "append_and_delete_easy.h"
