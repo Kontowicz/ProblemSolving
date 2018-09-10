@@ -54,3 +54,4 @@
 #include "permutation_equation_easy.h"
 #include "find_digits_easy.h"
 #include "append_and_delete_easy.h"
+#include "sherlock_and_squares_easy.h"

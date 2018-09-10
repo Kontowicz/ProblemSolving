@@ -182,5 +182,8 @@
     <ClInclude Include="append_and_delete_easy.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
+    <ClInclude Include="sherlock_and_squares_easy.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
