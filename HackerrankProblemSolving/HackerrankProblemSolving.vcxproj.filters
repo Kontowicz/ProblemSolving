@@ -191,8 +191,11 @@
     <ClInclude Include="chocolate_feast_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
+    <ClInclude Include="kaprekar_numbers_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
     <ClInclude Include="cavity_map_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

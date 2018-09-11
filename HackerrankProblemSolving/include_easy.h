@@ -57,3 +57,4 @@
 #include "sherlock_and_squares_easy.h"
 #include "equality_in_a_array_easy.h"
 #include "cavity_map_easy.h"
+#include "kaprekar_numbers_easy.h"
