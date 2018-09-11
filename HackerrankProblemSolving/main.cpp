@@ -63,6 +63,7 @@ void print()
 	name.emplace_back("cavity map");
 	name.emplace_back("kaprekar numbers");
 	name.emplace_back("taum and bday");
+	name.emplace_back("hallowenn sale");
 #pragma region print
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -157,6 +158,7 @@ int main()
 		case 55: _55::cavity_map(); break;
 		case 56: _56::kape(); break;
 		case 57: _57::taum(); break;
+		case 58: _58::hallowen(); break;
 #pragma endregion 
 			
 		case 0: break;

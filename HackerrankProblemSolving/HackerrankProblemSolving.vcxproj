@@ -146,6 +146,7 @@
     <ClInclude Include="funny_string_easy.h" />
     <ClInclude Include="grading_easy.h" />
     <ClInclude Include="hackerrank_in_a_string_easy.h" />
+    <ClInclude Include="halloween_sale_easy.h" />
     <ClInclude Include="include_easy.h" />
     <ClInclude Include="jumping_on_the_clouds_easy.h" />
     <ClInclude Include="jumping_on_the_clouds_revisited_easy.h" />
