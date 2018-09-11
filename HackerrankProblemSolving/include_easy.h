@@ -1,6 +1,3 @@
-
-
-
 #pragma once
 
 #include "solve_me_first_easy.h"
@@ -58,3 +55,4 @@
 #include "equality_in_a_array_easy.h"
 #include "cavity_map_easy.h"
 #include "kaprekar_numbers_easy.h"
+#include "taum_and_bday_easy.h"

@@ -169,6 +169,7 @@
     <ClInclude Include="strange_advertising_easy.h" />
     <ClInclude Include="string_split.h" />
     <ClInclude Include="strong_password_easy.h" />
+    <ClInclude Include="taum_and_bday_easy.h" />
     <ClInclude Include="the_birthday_bar_easy.h" />
     <ClInclude Include="the_hurdle_race_easy.h" />
     <ClInclude Include="the_love_letter_mystery_easy.h" />
