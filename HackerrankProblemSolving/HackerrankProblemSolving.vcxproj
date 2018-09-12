@@ -123,6 +123,7 @@
     <ClInclude Include="apple_and_orange_easy.h" />
     <ClInclude Include="beautiful_days_at_the_movies_easy.h" />
     <ClInclude Include="beautiful_triplets_easy.h" />
+    <ClInclude Include="big_sorting_easy.h" />
     <ClInclude Include="birthday_cake_candles_easy.h" />
     <ClInclude Include="bon_appetit_easy.h" />
     <ClInclude Include="breaking_best_and_worst_records_easy.h" />
