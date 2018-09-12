@@ -57,3 +57,4 @@
 #include "kaprekar_numbers_easy.h"
 #include "taum_and_bday_easy.h"
 #include "halloween_sale_easy.h"
+#include "fair_rations_easy.h"
