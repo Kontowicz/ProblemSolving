@@ -215,5 +215,8 @@
     <ClInclude Include="flatland_space_stations_easy.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
+    <ClInclude Include="happy_ladybugs_easy.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

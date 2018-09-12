@@ -61,3 +61,4 @@
 #include "strange_code_easy.h"
 #include "big_sorting_easy.h"
 #include "flatland_space_stations_easy.h"
+#include "happy_ladybugs_easy.h"

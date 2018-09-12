@@ -68,6 +68,7 @@ void print()
 	name.emplace_back("strange code");
 	name.emplace_back("big sorting");
 	name.emplace_back("flatland space stations");
+	name.emplace_back("happy ladyburgs");
 #pragma region print
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -167,6 +168,7 @@ int main()
 		case 60: _60::strange(); break;
 		case 61: _61::bsort(); break;
 		case 62: _62::flatland(); break;
+		case 63: _63::happy(); break;
 #pragma endregion 
 			
 		case 0: break;
