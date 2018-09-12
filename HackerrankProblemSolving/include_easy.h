@@ -58,3 +58,4 @@
 #include "taum_and_bday_easy.h"
 #include "halloween_sale_easy.h"
 #include "fair_rations_easy.h"
+#include "strange_code_easy.h"

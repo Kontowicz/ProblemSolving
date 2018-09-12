@@ -65,6 +65,7 @@ void print()
 	name.emplace_back("taum and bday");
 	name.emplace_back("hallowenn sale");
 	name.emplace_back("fair rations");
+	name.emplace_back("strange code");
 #pragma region print
 	int max_len = name[0].length();
 	for(auto it = name.begin(); it!=name.end(); ++it)
@@ -161,6 +162,7 @@ int main()
 		case 57: _57::taum(); break;
 		case 58: _58::hallowen(); break;
 		case 59: _59::fair(); break;
+		case 60: _60::strange(); break;
 #pragma endregion 
 			
 		case 0: break;
