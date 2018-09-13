@@ -152,6 +152,7 @@
     <ClInclude Include="halloween_sale_easy.h" />
     <ClInclude Include="happy_ladybugs_easy.h" />
     <ClInclude Include="include_easy.h" />
+    <ClInclude Include="insertionsort1_easy.h" />
     <ClInclude Include="jumping_on_the_clouds_easy.h" />
     <ClInclude Include="jumping_on_the_clouds_revisited_easy.h" />
     <ClInclude Include="kangaroo_easy.h" />

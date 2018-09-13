@@ -197,26 +197,29 @@
     <ClInclude Include="cavity_map_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="taum_and_bday_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
     <ClInclude Include="halloween_sale_easy.h">
       <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="fair_rations_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+    <ClInclude Include="insertionsort1_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
     <ClInclude Include="strange_code_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="fair_rations_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
     <ClInclude Include="big_sorting_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
     <ClInclude Include="flatland_space_stations_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
     <ClInclude Include="happy_ladybugs_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki zasobów\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="taum_and_bday_easy.h">
+      <Filter>Pliki zasobów\Easy</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
