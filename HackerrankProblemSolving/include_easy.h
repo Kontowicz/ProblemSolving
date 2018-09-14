@@ -69,3 +69,4 @@
 #include "hackerrank_in_a_string_easy.h"
 #include "weighted_uniform_string_easy.h"
 #include "mars_exploration_easy.h"
+#include "palindrome_index_easy.h"

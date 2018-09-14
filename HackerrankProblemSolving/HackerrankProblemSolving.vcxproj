@@ -162,6 +162,7 @@
     <ClInclude Include="migratory_birds_easy.h" />
     <ClInclude Include="minimum_distances_easy.h" />
     <ClInclude Include="mini_max_easy.h" />
+    <ClInclude Include="palindrome_index_easy.h" />
     <ClInclude Include="pangrams_easy.h" />
     <ClInclude Include="permutation_equation_easy.h" />
     <ClInclude Include="picking_numbers_easy.h" />

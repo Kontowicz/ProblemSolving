@@ -177,6 +177,7 @@ int main()
 		case 66: _66::insertionsort2(); break;
 		case 67: _67::weighted(); break;
 		case 68: _68::mars(); break;
+		case 69: _69::palindrome(); break;
 #pragma endregion 
 			
 		case 0: break;
