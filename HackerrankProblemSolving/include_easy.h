@@ -67,3 +67,4 @@
 #include "insertionsort2_easy.h"
 #include "chocolate_feast_easy.h"
 #include "hackerrank_in_a_string_easy.h"
+#include "weighted_uniform_string_easy.h"
