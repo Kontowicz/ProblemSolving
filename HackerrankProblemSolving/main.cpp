@@ -70,6 +70,7 @@ void print()
 	name.emplace_back("reduced string");
 	name.emplace_back("insertionsort2");
 	name.emplace_back("weighted uniform string");
+	name.emplace_back("mars exploration");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -175,6 +176,7 @@ int main()
 		case 65: _65::reduced(); break;
 		case 66: _66::insertionsort2(); break;
 		case 67: _67::weighted(); break;
+		case 68: _68::mars(); break;
 #pragma endregion 
 			
 		case 0: break;
