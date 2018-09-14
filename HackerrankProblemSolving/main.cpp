@@ -1,14 +1,11 @@
 #include "include_easy.h"
-#include "hackerrank_in_a_string_easy.h"
-#include "chocolate_feast_easy.h"
-
 
 void print()
 {
 	std::vector<std::string> name;
 	name.emplace_back("solve me first");
- 	name.emplace_back("simple array sum");
- 	name.emplace_back("compare the triplets");
+	name.emplace_back("simple array sum");
+	name.emplace_back("compare the triplets");
 	name.emplace_back("a very big sum");
 	name.emplace_back("diagonal difference");
 	name.emplace_back("plus minus");
@@ -74,27 +71,28 @@ void print()
 	name.emplace_back("insertionsort2");
 #pragma region print
 	int max_len = name[0].length();
-	for(auto it = name.begin(); it!=name.end(); ++it)
+	for (auto it = name.begin(); it != name.end(); ++it)
 	{
-		if(max_len< (*it).length())
+		if (max_len< (*it).length())
 			max_len = (*it).length();
 	}
-	
-	cout.width(max_len + std::to_string(name.size()).length() );
 
-	cout  << "easy\n";
+	cout.width(max_len + std::to_string(name.size()).length());
+
+	cout << "easy\n";
 	int cnt(1);
-	for(int i=0; i<name.size(); ++i)
+	for (int i = 0; i<name.size(); ++i)
 	{
 		cout.width(std::to_string(name.size()).length());
 		cout << std::left << cnt++;
-		
+
 		cout.width(max_len + 2);
 		cout.fill('-');
 		cout << std::internal << name[i] << "\n";
 	}
 #pragma endregion 
- }
+}
+
 
 int main()
 {
