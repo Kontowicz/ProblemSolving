@@ -75,3 +75,4 @@
 #include "alternating_characters_easy.h"
 #include "countingsort1_easy.h"
 #include "countingsort2_easy.h"
+#include "find_the_median_easy.h"

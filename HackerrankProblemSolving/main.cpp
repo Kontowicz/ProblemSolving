@@ -76,6 +76,7 @@ void print()
 	name.emplace_back("alternating characers");
 	name.emplace_back("countingsort1");
 	name.emplace_back("countingsort2");
+	name.emplace_back("find the median");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -188,6 +189,7 @@ int main()
 		case 72: _72::character(); break;
 		case 73: _73::counting(); break;
 		case 74: _74::counting_sort(); break;
+		case 75: _75::find_median(); break;
 #pragma endregion 
 			
 		case 0: break;

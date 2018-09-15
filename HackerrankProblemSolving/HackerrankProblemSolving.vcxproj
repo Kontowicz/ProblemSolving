@@ -148,6 +148,7 @@
     <ClInclude Include="equality_in_a_array_easy.h" />
     <ClInclude Include="fair_rations_easy.h" />
     <ClInclude Include="find_digits_easy.h" />
+    <ClInclude Include="find_the_median_easy.h" />
     <ClInclude Include="flatland_space_stations_easy.h" />
     <ClInclude Include="funny_string_easy.h" />
     <ClInclude Include="grading_easy.h" />
