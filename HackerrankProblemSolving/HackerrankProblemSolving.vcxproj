@@ -118,6 +118,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="alternating_characters_easy.h" />
     <ClInclude Include="angry_professor_easy.h" />
     <ClInclude Include="append_and_delete_easy.h" />
     <ClInclude Include="apple_and_orange_easy.h" />
