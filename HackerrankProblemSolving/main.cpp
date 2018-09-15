@@ -74,7 +74,8 @@ void print()
 	name.emplace_back("quicksort1");
 	name.emplace_back("lonely integer");
 	name.emplace_back("alternating characers");
-	name.emplace_back("coutingsort1");
+	name.emplace_back("countingsort1");
+	name.emplace_back("countingsort2");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -186,6 +187,7 @@ int main()
 		case 71: _71::lonely(); break;
 		case 72: _72::character(); break;
 		case 73: _73::counting(); break;
+		case 74: _74::counting_sort(); break;
 #pragma endregion 
 			
 		case 0: break;

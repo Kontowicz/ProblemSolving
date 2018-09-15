@@ -136,6 +136,7 @@
     <ClInclude Include="circular_array_rotation_easy.h" />
     <ClInclude Include="compare_the_triplets_easy.h" />
     <ClInclude Include="countingsort1_easy.h" />
+    <ClInclude Include="countingsort2_easy.h" />
     <ClInclude Include="counting_valleys_easy.h" />
     <ClInclude Include="cut_the_sticks_easy.h" />
     <ClInclude Include="day_of_the_programmer_easy.h" />

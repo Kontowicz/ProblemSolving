@@ -74,3 +74,4 @@
 #include "lonely_integer_easy.h"
 #include "alternating_characters_easy.h"
 #include "countingsort1_easy.h"
+#include "countingsort2_easy.h"
