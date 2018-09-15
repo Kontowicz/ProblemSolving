@@ -72,6 +72,7 @@ void print()
 	name.emplace_back("weighted uniform string");
 	name.emplace_back("mars exploration");
 	name.emplace_back("quicksort1");
+	name.emplace_back("lonely integer");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -180,6 +181,7 @@ int main()
 		case 68: _68::mars(); break;
 		case 69: _69::palindrome(); break;
 		case 70: _70::qsort(); break;
+		case 71: _71::lonely(); break;
 #pragma endregion 
 			
 		case 0: break;
