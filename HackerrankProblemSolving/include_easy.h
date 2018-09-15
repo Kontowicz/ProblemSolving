@@ -70,3 +70,4 @@
 #include "weighted_uniform_string_easy.h"
 #include "mars_exploration_easy.h"
 #include "palindrome_index_easy.h"
+#include "quicksort1_easy.h"
