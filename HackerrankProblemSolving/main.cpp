@@ -78,6 +78,7 @@ void print()
 	name.emplace_back("countingsort2");
 	name.emplace_back("find the median");
 	name.emplace_back("closest numbers");
+	name.emplace_back("anagram");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -192,6 +193,7 @@ int main()
 		case 74: _74::counting_sort(); break;
 		case 75: _75::find_median(); break;
 		case 76: _76::closest(); break;
+		case 77: _77::ana(); break;
 #pragma endregion 
 			
 		case 0: break;
