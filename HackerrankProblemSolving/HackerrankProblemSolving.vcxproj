@@ -134,6 +134,7 @@
     <ClInclude Include="cavity_map_easy.h" />
     <ClInclude Include="chocolate_feast_easy.h" />
     <ClInclude Include="circular_array_rotation_easy.h" />
+    <ClInclude Include="closest_numbers_easy.h" />
     <ClInclude Include="compare_the_triplets_easy.h" />
     <ClInclude Include="countingsort1_easy.h" />
     <ClInclude Include="countingsort2_easy.h" />
