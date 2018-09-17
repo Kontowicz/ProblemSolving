@@ -78,3 +78,4 @@
 #include "find_the_median_easy.h"
 #include "closest_numbers_easy.h"
 #include "anagram_easy.h"
+#include "icecream_parlor_easy.h"
