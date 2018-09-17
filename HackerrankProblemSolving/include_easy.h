@@ -79,3 +79,4 @@
 #include "closest_numbers_easy.h"
 #include "anagram_easy.h"
 #include "icecream_parlor_easy.h"
+#include "minimum_absolute_difference_in_an_array_easy.h"

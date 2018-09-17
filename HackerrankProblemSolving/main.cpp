@@ -79,6 +79,8 @@ void print()
 	name.emplace_back("find the median");
 	name.emplace_back("closest numbers");
 	name.emplace_back("anagram");
+	name.emplace_back("icecream patrol");
+	name.emplace_back("minimum absolute difference in an array");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -194,6 +196,8 @@ int main()
 		case 75: _75::find_median(); break;
 		case 76: _76::closest(); break;
 		case 77: _77::ana(); break;
+		case 78: _78::patrol(); break;
+		case 79: _79::minimum(); break;
 #pragma endregion 
 			
 		case 0: break;
