@@ -198,6 +198,7 @@ int main()
 		case 77: _77::ana(); break;
 		case 78: _78::patrol(); break;
 		case 79: _79::minimum(); break;
+		case 80: _80::miss(); break;
 #pragma endregion 
 			
 		case 0: break;

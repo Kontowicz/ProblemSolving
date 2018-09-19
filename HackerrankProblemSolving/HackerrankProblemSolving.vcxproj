@@ -171,6 +171,7 @@
     <ClInclude Include="minimum_distances_easy.h" />
     <ClInclude Include="mini_max_easy.h" />
     <ClInclude Include="minimum_absolute_difference_in_an_array_easy.h" />
+    <ClInclude Include="missing_numbers_easy.h" />
     <ClInclude Include="palindrome_index_easy.h" />
     <ClInclude Include="pangrams_easy.h" />
     <ClInclude Include="permutation_equation_easy.h" />

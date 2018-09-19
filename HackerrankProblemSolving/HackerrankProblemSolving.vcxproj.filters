@@ -9,11 +9,11 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="Pliki zasobów">
+    <Filter Include="Pliki nagłówkowe\Pliki zasobów">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Pliki zasobów\Easy">
+    <Filter Include="Pliki nagłówkowe\Easy">
       <UniqueIdentifier>{e8a3ab62-446c-4e2d-809e-43e0f088767f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -24,247 +24,250 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include_easy.h">
-      <Filter>Pliki zasobów</Filter>
+      <Filter>Pliki nagłówkowe\Pliki zasobów</Filter>
     </ClInclude>
     <ClInclude Include="solve_me_first_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="simple_array_sum_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="compare_the_triplets_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="plus_minus_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="staircase_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="mini_max_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="birthday_cake_candles_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="string_split.h">
-      <Filter>Pliki zasobów</Filter>
-    </ClInclude>
-    <ClInclude Include="a_very_big_sum_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="diagonal_difference_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Pliki zasobów</Filter>
     </ClInclude>
     <ClInclude Include="time_conversion_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="grading_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="apple_and_orange_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="kangaroo_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="breaking_best_and_worst_records_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="the_birthday_bar_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="divisible_sum_pairs_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="migratory_birds_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="day_of_the_programmer_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="sock_merchant_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="drawing_book_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="counting_valleys_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="electronics_shop_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="cats_and_a_mouse_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="bon_appetit_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="picking_numbers_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="utopian_tree_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="pangrams_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="minimum_distances_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="funny_string_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="circular_array_rotation_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="camelcase_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="caesar_cipher_1_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="beautiful_triplets_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="repeated_string_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="designer_pdf_viewer_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="the_hurdle_race_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="angry_professor_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="beautiful_days_at_the_movies_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="tutorial_intro_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="service_lane_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="the_love_letter_mystery_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="jumping_on_the_clouds_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="cut_the_sticks_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="jumping_on_the_clouds_revisited_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="strange_advertising_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="append_and_delete_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="equality_in_a_array_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="sherlock_and_squares_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="hackerrank_in_a_string_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="permutation_equation_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="save_the_prisoner_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="find_digits_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="strong_password_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="chocolate_feast_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="kaprekar_numbers_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="cavity_map_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="halloween_sale_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="insertionsort1_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="strange_code_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="fair_rations_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="big_sorting_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="flatland_space_stations_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="happy_ladybugs_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="taum_and_bday_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="insertionsort2_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="reduced_string_easy.h">
-      <Filter>Pliki zasobów\Easy</Filter>
-    </ClInclude>
-    <ClInclude Include="weighted_uniform_string_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="mars_exploration_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="palindrome_index_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="quicksort1_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="lonely_integer_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="alternating_characters_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="countingsort1_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="countingsort2_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="find_the_median_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="closest_numbers_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="anagram_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="icecream_parlor_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="minimum_absolute_difference_in_an_array_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="a_very_big_sum_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="angry_professor_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="birthday_cake_candles_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="alternating_characters_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="anagram_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="append_and_delete_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="apple_and_orange_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="beautiful_days_at_the_movies_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="beautiful_triplets_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="big_sorting_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="bon_appetit_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="breaking_best_and_worst_records_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="caesar_cipher_1_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="camelcase_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="cats_and_a_mouse_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="cavity_map_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="chocolate_feast_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="circular_array_rotation_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="closest_numbers_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="compare_the_triplets_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="counting_valleys_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="countingsort1_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="countingsort2_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="cut_the_sticks_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="day_of_the_programmer_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="designer_pdf_viewer_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="diagonal_difference_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="divisible_sum_pairs_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="drawing_book_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="electronics_shop_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="equality_in_a_array_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="fair_rations_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="find_digits_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="find_the_median_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="flatland_space_stations_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="funny_string_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="grading_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="hackerrank_in_a_string_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="halloween_sale_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="happy_ladybugs_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="icecream_parlor_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="insertionsort1_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="insertionsort2_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="jumping_on_the_clouds_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="jumping_on_the_clouds_revisited_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="kangaroo_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="kaprekar_numbers_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="lonely_integer_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="mars_exploration_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="palindrome_index_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="quicksort1_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="weighted_uniform_string_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="missing_numbers_easy.h">
+      <Filter>Pliki nagłówkowe\Pliki zasobów</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
