@@ -81,6 +81,7 @@ void print()
 	name.emplace_back("anagram");
 	name.emplace_back("icecream patrol");
 	name.emplace_back("minimum absolute difference in an array");
+	name.emplace_back("sherlock and array");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -199,6 +200,7 @@ int main()
 		case 78: _78::patrol(); break;
 		case 79: _79::minimum(); break;
 		case 80: _80::miss(); break;
+		case 81: _81::sherlock(); break;
 #pragma endregion 
 			
 		case 0: break;

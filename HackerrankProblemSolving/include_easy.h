@@ -81,3 +81,4 @@
 #include "icecream_parlor_easy.h"
 #include "minimum_absolute_difference_in_an_array_easy.h"
 #include "missing_numbers_easy.h"
+#include "sherlock_and_array_easy.h"
