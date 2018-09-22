@@ -85,3 +85,4 @@
 #include "runningtime_easy.h"
 #include "sherlock_and_the_beast_easy.h"
 #include "maximum_perimeter_triangle_easy.h"
+#include "making_anagrams_easy.h"

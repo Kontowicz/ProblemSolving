@@ -87,6 +87,7 @@ void print()
 	name.emplace_back("runningtime");
 	name.emplace_back("sherlock and the beast");
 	name.emplace_back("maximum perimeter triangle");
+	name.emplace_back("making anagrams");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -209,6 +210,7 @@ int main()
 		case 82: _82::runtime(); break;
 		case 83: _83::sherlock(); break;
 		case 84: _84::perimeter(); break;
+		case 85: _85::making(); break;
 #pragma endregion 
 			
 		case 0: break;
