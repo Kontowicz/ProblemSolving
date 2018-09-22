@@ -86,3 +86,4 @@
 #include "sherlock_and_the_beast_easy.h"
 #include "maximum_perimeter_triangle_easy.h"
 #include "making_anagrams_easy.h"
+#include "gem_stones_easy.h"

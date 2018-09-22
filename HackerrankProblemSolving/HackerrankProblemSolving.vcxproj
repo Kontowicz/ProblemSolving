@@ -153,6 +153,7 @@
     <ClInclude Include="find_the_median_easy.h" />
     <ClInclude Include="flatland_space_stations_easy.h" />
     <ClInclude Include="funny_string_easy.h" />
+    <ClInclude Include="gem_stones_easy.h" />
     <ClInclude Include="grading_easy.h" />
     <ClInclude Include="hackerrank_in_a_string_easy.h" />
     <ClInclude Include="halloween_sale_easy.h" />
