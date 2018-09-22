@@ -89,6 +89,7 @@ void print()
 	name.emplace_back("maximum perimeter triangle");
 	name.emplace_back("making anagrams");
 	name.emplace_back("gem stones");
+	name.emplace_back("two strings");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -213,6 +214,7 @@ int main()
 		case 84: _84::perimeter(); break;
 		case 85: _85::making(); break;
 		case 86: _86::gem(); break;
+		case 87: _87::two(); break;
 #pragma endregion 
 			
 		case 0: break;
