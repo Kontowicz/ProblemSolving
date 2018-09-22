@@ -167,6 +167,7 @@
     <ClInclude Include="kaprekar_numbers_easy.h" />
     <ClInclude Include="lonely_integer_easy.h" />
     <ClInclude Include="mars_exploration_easy.h" />
+    <ClInclude Include="maximum_perimeter_triangle_easy.h" />
     <ClInclude Include="migratory_birds_easy.h" />
     <ClInclude Include="minimum_distances_easy.h" />
     <ClInclude Include="mini_max_easy.h" />
@@ -185,6 +186,7 @@
     <ClInclude Include="service_lane_easy.h" />
     <ClInclude Include="sherlock_and_array_easy.h" />
     <ClInclude Include="sherlock_and_squares_easy.h" />
+    <ClInclude Include="sherlock_and_the_beast_easy.h" />
     <ClInclude Include="simple_array_sum_easy.h" />
     <ClInclude Include="sock_merchant_easy.h" />
     <ClInclude Include="solve_me_first_easy.h" />

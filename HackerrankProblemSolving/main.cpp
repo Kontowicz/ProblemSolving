@@ -85,6 +85,8 @@ void print()
 	name.emplace_back("missing numbers");
 	name.emplace_back("sherlock and array");
 	name.emplace_back("runningtime");
+	name.emplace_back("sherlock and the beast");
+	name.emplace_back("maximum perimeter triangle");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -205,6 +207,8 @@ int main()
 		case 80: _80::miss(); break;
 		case 81: _81::sherlock(); break;
 		case 82: _82::runtime(); break;
+		case 83: _83::sherlock(); break;
+		case 84: _84::perimeter(); break;
 #pragma endregion 
 			
 		case 0: break;

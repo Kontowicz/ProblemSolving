@@ -83,3 +83,5 @@
 #include "missing_numbers_easy.h"
 #include "sherlock_and_array_easy.h"
 #include "runningtime_easy.h"
+#include "sherlock_and_the_beast_easy.h"
+#include "maximum_perimeter_triangle_easy.h"
