@@ -92,6 +92,7 @@ void print()
 	name.emplace_back("two strings");
 	name.emplace_back("between two sets");
 	name.emplace_back("library fine");
+	name.emplace_back("acm icpc team");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -219,6 +220,7 @@ int main()
 		case 87: _87::two(); break;
 		case 88: _88::sets(); break;
 		case 89: _89::library(); break;
+		case 90: _90::acm(); break;
 #pragma endregion 
 			
 		case 0: break;

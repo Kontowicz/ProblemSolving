@@ -118,6 +118,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="acm_icpc_team_easy.h" />
     <ClInclude Include="alternating_characters_easy.h" />
     <ClInclude Include="anagram_easy.h" />
     <ClInclude Include="angry_professor_easy.h" />
