@@ -90,6 +90,7 @@ void print()
 	name.emplace_back("making anagrams");
 	name.emplace_back("gem stones");
 	name.emplace_back("two strings");
+	name.emplace_back("between two sets");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -215,6 +216,7 @@ int main()
 		case 85: _85::making(); break;
 		case 86: _86::gem(); break;
 		case 87: _87::two(); break;
+		case 88: _88::sets(); break;
 #pragma endregion 
 			
 		case 0: break;

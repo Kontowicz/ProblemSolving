@@ -269,25 +269,28 @@
     <ClInclude Include="missing_numbers_easy.h">
       <Filter>Pliki nagłówkowe\Pliki zasobów</Filter>
     </ClInclude>
-    <ClInclude Include="sherlock_and_array_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="runningtime_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="sherlock_and_the_beast_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="maximum_perimeter_triangle_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="making_anagrams_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+    <ClInclude Include="two_strings_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="gem_stones_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="two_strings_easy.h">
+    <ClInclude Include="making_anagrams_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="maximum_perimeter_triangle_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="runningtime_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="sherlock_and_array_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="sherlock_and_the_beast_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="between_two_sets_easy.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
   </ItemGroup>
