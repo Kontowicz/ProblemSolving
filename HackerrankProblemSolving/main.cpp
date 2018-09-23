@@ -95,6 +95,7 @@ void print()
 	name.emplace_back("acm icpc team");
 	name.emplace_back("lisa workbook");
 	name.emplace_back("manasa and stones");
+	name.emplace_back("grid challenge");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -225,6 +226,7 @@ int main()
 		case 90: _90::acm(); break;
 		case 91: _91::lisa(); break;
 		case 92: _92::manasa(); break;
+		case 93: _93::grid_ch(); break;
 #pragma endregion 
 			
 		case 0: break;

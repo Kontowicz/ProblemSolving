@@ -44,55 +44,56 @@
 |38|[Funny string ](https://www.hackerrank.com/challenges/funny-string/problem)|[MySolution](../master/HackerrankProblemSolving/funny_string_easy.h)|
 |39|[Gem stones ](https://www.hackerrank.com/challenges/gem-stones/problem)|[MySolution](../master/HackerrankProblemSolving/gem_stones_easy.h)|
 |40|[Grading ](https://www.hackerrank.com/challenges/grading/problem)|[MySolution](../master/HackerrankProblemSolving/grading_easy.h)|
-|41|[Hackerrank in a string ](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)|[MySolution](../master/HackerrankProblemSolving/hackerrank_in_a_string_easy.h)|
-|42|[Halloween sale ](https://www.hackerrank.com/challenges/halloween-sale/problem)|[MySolution](../master/HackerrankProblemSolving/halloween_sale_easy.h)|
-|43|[Happy ladybugs ](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|[MySolution](../master/HackerrankProblemSolving/happy_ladybugs_easy.h)|
-|44|[Icecream parlor ](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[MySolution](../master/HackerrankProblemSolving/icecream_parlor_easy.h)|
-|45|[Insertionsort1 ](https://www.hackerrank.com/challenges/insertionsort1/problem)|[MySolution](../master/HackerrankProblemSolving/insertionsort1_easy.h)|
-|46|[Insertionsort2 ](https://www.hackerrank.com/challenges/insertionsort2/problem)|[MySolution](../master/HackerrankProblemSolving/insertionsort2_easy.h)|
-|47|[Jumping on the clouds ](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[MySolution](../master/HackerrankProblemSolving/jumping_on_the_clouds_easy.h)|
-|48|[Jumping on the clouds revisited ](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)|[MySolution](../master/HackerrankProblemSolving/jumping_on_the_clouds_revisited_easy.h)|
-|49|[Kangaroo ](https://www.hackerrank.com/challenges/kangaroo/problem)|[MySolution](../master/HackerrankProblemSolving/kangaroo_easy.h)|
-|50|[Kaprekar numbers ](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)|[MySolution](../master/HackerrankProblemSolving/kaprekar_numbers_easy.h)|
-|51|[Library fine ](https://www.hackerrank.com/challenges/library-fine/problem)|[MySolution](../master/HackerrankProblemSolving/library_fine_easy.h)|
-|52|[Lisa workbook ](https://www.hackerrank.com/challenges/lisa-workbook/problem)|[MySolution](../master/HackerrankProblemSolving/lisa_workbook_easy.h)|
-|53|[Lonely integer ](https://www.hackerrank.com/challenges/lonely-integer/problem)|[MySolution](../master/HackerrankProblemSolving/lonely_integer_easy.h)|
-|54|[Making anagrams ](https://www.hackerrank.com/challenges/making-anagrams/problem)|[MySolution](../master/HackerrankProblemSolving/making_anagrams_easy.h)|
-|55|[Manasa and stones ](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|[MySolution](../master/HackerrankProblemSolving/manasa_and_stones_easy.h)|
-|56|[Mars exploration ](https://www.hackerrank.com/challenges/mars-exploration/problem)|[MySolution](../master/HackerrankProblemSolving/mars_exploration_easy.h)|
-|57|[Maximum perimeter triangle ](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)|[MySolution](../master/HackerrankProblemSolving/maximum_perimeter_triangle_easy.h)|
-|58|[Migratory birds ](https://www.hackerrank.com/challenges/migratory-birds/problem)|[MySolution](../master/HackerrankProblemSolving/migratory_birds_easy.h)|
-|59|[Minimum absolute difference in an array ](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|[MySolution](../master/HackerrankProblemSolving/minimum_absolute_difference_in_an_array_easy.h)|
-|60|[Minimum distances ](https://www.hackerrank.com/challenges/minimum-distances/problem)|[MySolution](../master/HackerrankProblemSolving/minimum_distances_easy.h)|
-|61|[Mini max ](https://www.hackerrank.com/challenges/mini-max/problem)|[MySolution](../master/HackerrankProblemSolving/mini_max_easy.h)|
-|62|[Missing numbers ](https://www.hackerrank.com/challenges/missing-numbers/problem)|[MySolution](../master/HackerrankProblemSolving/missing_numbers_easy.h)|
-|63|[Palindrome index ](https://www.hackerrank.com/challenges/palindrome-index/problem)|[MySolution](../master/HackerrankProblemSolving/palindrome_index_easy.h)|
-|64|[Pangrams ](https://www.hackerrank.com/challenges/pangrams/problem)|[MySolution](../master/HackerrankProblemSolving/pangrams_easy.h)|
-|65|[Permutation equation ](https://www.hackerrank.com/challenges/permutation-equation/problem)|[MySolution](../master/HackerrankProblemSolving/permutation_equation_easy.h)|
-|66|[Picking numbers ](https://www.hackerrank.com/challenges/picking-numbers/problem)|[MySolution](../master/HackerrankProblemSolving/picking_numbers_easy.h)|
-|67|[Plus minus ](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/plus_minus_easy.h)|
-|68|[Quicksort1 ](https://www.hackerrank.com/challenges/quicksort1/problem)|[MySolution](../master/HackerrankProblemSolving/quicksort1_easy.h)|
-|69|[Reduced string ](https://www.hackerrank.com/challenges/reduced-string/problem)|[MySolution](../master/HackerrankProblemSolving/reduced_string_easy.h)|
-|70|[Repeated string ](https://www.hackerrank.com/challenges/repeated-string/problem)|[MySolution](../master/HackerrankProblemSolving/repeated_string_easy.h)|
-|71|[Runningtime ](https://www.hackerrank.com/challenges/runningtime/problem)|[MySolution](../master/HackerrankProblemSolving/runningtime_easy.h)|
-|72|[Save the prisoner ](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[MySolution](../master/HackerrankProblemSolving/save_the_prisoner_easy.h)|
-|73|[Service lane ](https://www.hackerrank.com/challenges/service-lane/problem)|[MySolution](../master/HackerrankProblemSolving/service_lane_easy.h)|
-|74|[Sherlock and array ](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[MySolution](../master/HackerrankProblemSolving/sherlock_and_array_easy.h)|
-|75|[Sherlock and squares ](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|[MySolution](../master/HackerrankProblemSolving/sherlock_and_squares_easy.h)|
-|76|[Sherlock and the beast ](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|[MySolution](../master/HackerrankProblemSolving/sherlock_and_the_beast_easy.h)|
-|77|[Simple array sum ](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[MySolution](../master/HackerrankProblemSolving/simple_array_sum_easy.h)|
-|78|[Sock merchant ](https://www.hackerrank.com/challenges/sock-merchant/problem)|[MySolution](../master/HackerrankProblemSolving/sock_merchant_easy.h)|
-|79|[Solve me first ](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_first_easy.h)|
-|80|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
-|81|[Strange advertising ](https://www.hackerrank.com/challenges/strange-advertising/problem)|[MySolution](../master/HackerrankProblemSolving/strange_advertising_easy.h)|
-|82|[Strange code ](https://www.hackerrank.com/challenges/strange-code/problem)|[MySolution](../master/HackerrankProblemSolving/strange_code_easy.h)|
-|83|[Strong password ](https://www.hackerrank.com/challenges/strong-password/problem)|[MySolution](../master/HackerrankProblemSolving/strong_password_easy.h)|
-|84|[Taum and bday ](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[MySolution](../master/HackerrankProblemSolving/taum_and_bday_easy.h)|
-|85|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
-|86|[The hurdle race ](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[MySolution](../master/HackerrankProblemSolving/the_hurdle_race_easy.h)|
-|87|[The love letter mystery ](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[MySolution](../master/HackerrankProblemSolving/the_love_letter_mystery_easy.h)|
-|88|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
-|89|[Tutorial intro ](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[MySolution](../master/HackerrankProblemSolving/tutorial_intro_easy.h)|
-|90|[Two strings ](https://www.hackerrank.com/challenges/two-strings/problem)|[MySolution](../master/HackerrankProblemSolving/two_strings_easy.h)|
-|91|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
-|92|[Weighted uniform string ](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)|[MySolution](../master/HackerrankProblemSolving/weighted_uniform_string_easy.h)|
+|41|[Grid challenge ](https://www.hackerrank.com/challenges/grid-challenge/problem)|[MySolution](../master/HackerrankProblemSolving/grid_challenge_easy.h)|
+|42|[Hackerrank in a string ](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)|[MySolution](../master/HackerrankProblemSolving/hackerrank_in_a_string_easy.h)|
+|43|[Halloween sale ](https://www.hackerrank.com/challenges/halloween-sale/problem)|[MySolution](../master/HackerrankProblemSolving/halloween_sale_easy.h)|
+|44|[Happy ladybugs ](https://www.hackerrank.com/challenges/happy-ladybugs/problem)|[MySolution](../master/HackerrankProblemSolving/happy_ladybugs_easy.h)|
+|45|[Icecream parlor ](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[MySolution](../master/HackerrankProblemSolving/icecream_parlor_easy.h)|
+|46|[Insertionsort1 ](https://www.hackerrank.com/challenges/insertionsort1/problem)|[MySolution](../master/HackerrankProblemSolving/insertionsort1_easy.h)|
+|47|[Insertionsort2 ](https://www.hackerrank.com/challenges/insertionsort2/problem)|[MySolution](../master/HackerrankProblemSolving/insertionsort2_easy.h)|
+|48|[Jumping on the clouds ](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[MySolution](../master/HackerrankProblemSolving/jumping_on_the_clouds_easy.h)|
+|49|[Jumping on the clouds revisited ](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)|[MySolution](../master/HackerrankProblemSolving/jumping_on_the_clouds_revisited_easy.h)|
+|50|[Kangaroo ](https://www.hackerrank.com/challenges/kangaroo/problem)|[MySolution](../master/HackerrankProblemSolving/kangaroo_easy.h)|
+|51|[Kaprekar numbers ](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)|[MySolution](../master/HackerrankProblemSolving/kaprekar_numbers_easy.h)|
+|52|[Library fine ](https://www.hackerrank.com/challenges/library-fine/problem)|[MySolution](../master/HackerrankProblemSolving/library_fine_easy.h)|
+|53|[Lisa workbook ](https://www.hackerrank.com/challenges/lisa-workbook/problem)|[MySolution](../master/HackerrankProblemSolving/lisa_workbook_easy.h)|
+|54|[Lonely integer ](https://www.hackerrank.com/challenges/lonely-integer/problem)|[MySolution](../master/HackerrankProblemSolving/lonely_integer_easy.h)|
+|55|[Making anagrams ](https://www.hackerrank.com/challenges/making-anagrams/problem)|[MySolution](../master/HackerrankProblemSolving/making_anagrams_easy.h)|
+|56|[Manasa and stones ](https://www.hackerrank.com/challenges/manasa-and-stones/problem)|[MySolution](../master/HackerrankProblemSolving/manasa_and_stones_easy.h)|
+|57|[Mars exploration ](https://www.hackerrank.com/challenges/mars-exploration/problem)|[MySolution](../master/HackerrankProblemSolving/mars_exploration_easy.h)|
+|58|[Maximum perimeter triangle ](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)|[MySolution](../master/HackerrankProblemSolving/maximum_perimeter_triangle_easy.h)|
+|59|[Migratory birds ](https://www.hackerrank.com/challenges/migratory-birds/problem)|[MySolution](../master/HackerrankProblemSolving/migratory_birds_easy.h)|
+|60|[Minimum absolute difference in an array ](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|[MySolution](../master/HackerrankProblemSolving/minimum_absolute_difference_in_an_array_easy.h)|
+|61|[Minimum distances ](https://www.hackerrank.com/challenges/minimum-distances/problem)|[MySolution](../master/HackerrankProblemSolving/minimum_distances_easy.h)|
+|62|[Mini max ](https://www.hackerrank.com/challenges/mini-max/problem)|[MySolution](../master/HackerrankProblemSolving/mini_max_easy.h)|
+|63|[Missing numbers ](https://www.hackerrank.com/challenges/missing-numbers/problem)|[MySolution](../master/HackerrankProblemSolving/missing_numbers_easy.h)|
+|64|[Palindrome index ](https://www.hackerrank.com/challenges/palindrome-index/problem)|[MySolution](../master/HackerrankProblemSolving/palindrome_index_easy.h)|
+|65|[Pangrams ](https://www.hackerrank.com/challenges/pangrams/problem)|[MySolution](../master/HackerrankProblemSolving/pangrams_easy.h)|
+|66|[Permutation equation ](https://www.hackerrank.com/challenges/permutation-equation/problem)|[MySolution](../master/HackerrankProblemSolving/permutation_equation_easy.h)|
+|67|[Picking numbers ](https://www.hackerrank.com/challenges/picking-numbers/problem)|[MySolution](../master/HackerrankProblemSolving/picking_numbers_easy.h)|
+|68|[Plus minus ](https://www.hackerrank.com/challenges/plus-minus/problem)|[MySolution](../master/HackerrankProblemSolving/plus_minus_easy.h)|
+|69|[Quicksort1 ](https://www.hackerrank.com/challenges/quicksort1/problem)|[MySolution](../master/HackerrankProblemSolving/quicksort1_easy.h)|
+|70|[Reduced string ](https://www.hackerrank.com/challenges/reduced-string/problem)|[MySolution](../master/HackerrankProblemSolving/reduced_string_easy.h)|
+|71|[Repeated string ](https://www.hackerrank.com/challenges/repeated-string/problem)|[MySolution](../master/HackerrankProblemSolving/repeated_string_easy.h)|
+|72|[Runningtime ](https://www.hackerrank.com/challenges/runningtime/problem)|[MySolution](../master/HackerrankProblemSolving/runningtime_easy.h)|
+|73|[Save the prisoner ](https://www.hackerrank.com/challenges/save-the-prisoner/problem)|[MySolution](../master/HackerrankProblemSolving/save_the_prisoner_easy.h)|
+|74|[Service lane ](https://www.hackerrank.com/challenges/service-lane/problem)|[MySolution](../master/HackerrankProblemSolving/service_lane_easy.h)|
+|75|[Sherlock and array ](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[MySolution](../master/HackerrankProblemSolving/sherlock_and_array_easy.h)|
+|76|[Sherlock and squares ](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|[MySolution](../master/HackerrankProblemSolving/sherlock_and_squares_easy.h)|
+|77|[Sherlock and the beast ](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|[MySolution](../master/HackerrankProblemSolving/sherlock_and_the_beast_easy.h)|
+|78|[Simple array sum ](https://www.hackerrank.com/challenges/simple-array-sum/problem)|[MySolution](../master/HackerrankProblemSolving/simple_array_sum_easy.h)|
+|79|[Sock merchant ](https://www.hackerrank.com/challenges/sock-merchant/problem)|[MySolution](../master/HackerrankProblemSolving/sock_merchant_easy.h)|
+|80|[Solve me first ](https://www.hackerrank.com/challenges/solve-me-first/problem)|[MySolution](../master/HackerrankProblemSolving/solve_me_first_easy.h)|
+|81|[Staircase ](https://www.hackerrank.com/challenges/staircase/problem)|[MySolution](../master/HackerrankProblemSolving/staircase_easy.h)|
+|82|[Strange advertising ](https://www.hackerrank.com/challenges/strange-advertising/problem)|[MySolution](../master/HackerrankProblemSolving/strange_advertising_easy.h)|
+|83|[Strange code ](https://www.hackerrank.com/challenges/strange-code/problem)|[MySolution](../master/HackerrankProblemSolving/strange_code_easy.h)|
+|84|[Strong password ](https://www.hackerrank.com/challenges/strong-password/problem)|[MySolution](../master/HackerrankProblemSolving/strong_password_easy.h)|
+|85|[Taum and bday ](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[MySolution](../master/HackerrankProblemSolving/taum_and_bday_easy.h)|
+|86|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
+|87|[The hurdle race ](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[MySolution](../master/HackerrankProblemSolving/the_hurdle_race_easy.h)|
+|88|[The love letter mystery ](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[MySolution](../master/HackerrankProblemSolving/the_love_letter_mystery_easy.h)|
+|89|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
+|90|[Tutorial intro ](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[MySolution](../master/HackerrankProblemSolving/tutorial_intro_easy.h)|
+|91|[Two strings ](https://www.hackerrank.com/challenges/two-strings/problem)|[MySolution](../master/HackerrankProblemSolving/two_strings_easy.h)|
+|92|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
+|93|[Weighted uniform string ](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)|[MySolution](../master/HackerrankProblemSolving/weighted_uniform_string_easy.h)|
