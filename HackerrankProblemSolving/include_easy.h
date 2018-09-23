@@ -92,3 +92,4 @@
 #include "library_fine_easy.h"
 #include "acm_icpc_team_easy.h"
 #include "lisa_workbook_easy.h"
+#include "manasa_and_stones_easy.h"

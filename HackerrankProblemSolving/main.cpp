@@ -94,6 +94,7 @@ void print()
 	name.emplace_back("library fine");
 	name.emplace_back("acm icpc team");
 	name.emplace_back("lisa workbook");
+	name.emplace_back("manasa and stones");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -223,6 +224,7 @@ int main()
 		case 89: _89::library(); break;
 		case 90: _90::acm(); break;
 		case 91: _91::lisa(); break;
+		case 92: _92::manasa(); break;
 #pragma endregion 
 			
 		case 0: break;
