@@ -167,6 +167,7 @@
     <ClInclude Include="jumping_on_the_clouds_revisited_easy.h" />
     <ClInclude Include="kangaroo_easy.h" />
     <ClInclude Include="kaprekar_numbers_easy.h" />
+    <ClInclude Include="library_fine_easy.h" />
     <ClInclude Include="lonely_integer_easy.h" />
     <ClInclude Include="making_anagrams_easy.h" />
     <ClInclude Include="mars_exploration_easy.h" />

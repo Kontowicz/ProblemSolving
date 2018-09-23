@@ -89,3 +89,4 @@
 #include "gem_stones_easy.h"
 #include "two_strings_easy.h"
 #include "between_two_sets_easy.h"
+#include "library_fine_easy.h"
