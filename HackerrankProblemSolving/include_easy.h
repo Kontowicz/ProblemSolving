@@ -94,3 +94,4 @@
 #include "lisa_workbook_easy.h"
 #include "manasa_and_stones_easy.h"
 #include "grid_challenge_easy.h"
+#include "nim_game_1_easy.h"
