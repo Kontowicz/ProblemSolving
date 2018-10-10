@@ -172,6 +172,7 @@
     <ClInclude Include="library_fine_easy.h" />
     <ClInclude Include="lisa_workbook_easy.h" />
     <ClInclude Include="lonely_integer_easy.h" />
+    <ClInclude Include="luck_balance_easy.h" />
     <ClInclude Include="making_anagrams_easy.h" />
     <ClInclude Include="manasa_and_stones_easy.h" />
     <ClInclude Include="mars_exploration_easy.h" />

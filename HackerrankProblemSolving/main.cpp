@@ -229,6 +229,7 @@ int main()
 		case 92: _92::manasa(); break;
 		case 93: _93::grid_ch(); break;
 		case 94: _94::nim(); break;
+		case 95: _95::luck_balance(); break;
 #pragma endregion 
 			
 		case 0: break;

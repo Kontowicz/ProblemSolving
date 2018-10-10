@@ -266,9 +266,6 @@
     <ClInclude Include="weighted_uniform_string_easy.h">
       <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="missing_numbers_easy.h">
-      <Filter>Pliki nagłówkowe\Pliki zasobów</Filter>
-    </ClInclude>
     <ClInclude Include="two_strings_easy.h">
       <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
@@ -290,26 +287,32 @@
     <ClInclude Include="sherlock_and_the_beast_easy.h">
       <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="between_two_sets_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+    <ClInclude Include="luck_balance_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
-    <ClInclude Include="library_fine_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="acm_icpc_team_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="lisa_workbook_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="manasa_and_stones_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
-    </ClInclude>
-    <ClInclude Include="grid_challenge_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+    <ClInclude Include="missing_numbers_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
     <ClInclude Include="nim_game_1_easy.h">
-      <Filter>Pliki nagłówkowe</Filter>
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="acm_icpc_team_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="between_two_sets_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="grid_challenge_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="library_fine_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="lisa_workbook_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
+    </ClInclude>
+    <ClInclude Include="manasa_and_stones_easy.h">
+      <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

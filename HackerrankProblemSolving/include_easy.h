@@ -95,3 +95,4 @@
 #include "manasa_and_stones_easy.h"
 #include "grid_challenge_easy.h"
 #include "nim_game_1_easy.h"
+#include "luck_balance_easy.h"
