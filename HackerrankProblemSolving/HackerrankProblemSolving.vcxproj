@@ -155,6 +155,7 @@
     <ClInclude Include="find_the_median_easy.h" />
     <ClInclude Include="flatland_space_stations_easy.h" />
     <ClInclude Include="funny_string_easy.h" />
+    <ClInclude Include="game_of_thrones_easy.h" />
     <ClInclude Include="gem_stones_easy.h" />
     <ClInclude Include="grading_easy.h" />
     <ClInclude Include="grid_challenge_easy.h" />

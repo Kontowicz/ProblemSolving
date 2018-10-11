@@ -96,3 +96,4 @@
 #include "grid_challenge_easy.h"
 #include "nim_game_1_easy.h"
 #include "luck_balance_easy.h"
+#include "game_of_thrones_easy.h"

@@ -314,5 +314,8 @@
     <ClInclude Include="manasa_and_stones_easy.h">
       <Filter>Pliki nagłówkowe\Easy</Filter>
     </ClInclude>
+    <ClInclude Include="game_of_thrones_easy.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

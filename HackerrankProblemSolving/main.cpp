@@ -97,6 +97,8 @@ void print()
 	name.emplace_back("manasa and stones");
 	name.emplace_back("grid challenge");
 	name.emplace_back("nim game 1");
+	name.emplace_back("Luck balance");
+	name.emplace_back("Game of thrones");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -230,6 +232,7 @@ int main()
 		case 93: _93::grid_ch(); break;
 		case 94: _94::nim(); break;
 		case 95: _95::luck_balance(); break;
+		case 96: _96::game_of_thrones(); break;
 #pragma endregion 
 			
 		case 0: break;
