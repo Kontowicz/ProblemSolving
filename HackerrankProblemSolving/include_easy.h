@@ -97,3 +97,4 @@
 #include "nim_game_1_easy.h"
 #include "luck_balance_easy.h"
 #include "game_of_thrones_easy.h"
+#include "beautiful_binary_string_easy.h"

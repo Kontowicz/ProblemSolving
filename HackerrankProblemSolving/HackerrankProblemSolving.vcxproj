@@ -124,6 +124,7 @@
     <ClInclude Include="angry_professor_easy.h" />
     <ClInclude Include="append_and_delete_easy.h" />
     <ClInclude Include="apple_and_orange_easy.h" />
+    <ClInclude Include="beautiful_binary_string_easy.h" />
     <ClInclude Include="beautiful_days_at_the_movies_easy.h" />
     <ClInclude Include="beautiful_triplets_easy.h" />
     <ClInclude Include="between_two_sets_easy.h" />

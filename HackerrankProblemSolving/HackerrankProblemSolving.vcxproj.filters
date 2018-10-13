@@ -317,5 +317,8 @@
     <ClInclude Include="game_of_thrones_easy.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
+    <ClInclude Include="beautiful_binary_string_easy.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
