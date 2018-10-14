@@ -100,6 +100,7 @@ void print()
 	name.emplace_back("Luck balance");
 	name.emplace_back("Game of thrones");
 	name.emplace_back("Beautiful binary string");
+	name.emplace_back("Marcs cakewalk");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -235,6 +236,7 @@ int main()
 		case 95: _95::luck_balance(); break;
 		case 96: _96::game_of_thrones(); break;
 		case 97: _97::beautiful_binary_string(); break;
+		case 98: _98::marcs_cakewalk(); break;
 #pragma endregion 
 			
 		case 0: break;

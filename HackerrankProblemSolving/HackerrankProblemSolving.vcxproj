@@ -177,6 +177,7 @@
     <ClInclude Include="luck_balance_easy.h" />
     <ClInclude Include="making_anagrams_easy.h" />
     <ClInclude Include="manasa_and_stones_easy.h" />
+    <ClInclude Include="marcs_cakewalk_easy.h" />
     <ClInclude Include="mars_exploration_easy.h" />
     <ClInclude Include="maximum_perimeter_triangle_easy.h" />
     <ClInclude Include="migratory_birds_easy.h" />

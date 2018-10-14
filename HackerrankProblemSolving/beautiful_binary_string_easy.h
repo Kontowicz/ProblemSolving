@@ -18,7 +18,7 @@ namespace  _97
 		std::string b;
 		getline(std::cin, b);
 
-		int result = beautifulBinaryString(b);
+		const int result = beautifulBinaryString(b);
 
 		std::cout << result << "\n";
 	}

@@ -98,3 +98,4 @@
 #include "luck_balance_easy.h"
 #include "game_of_thrones_easy.h"
 #include "beautiful_binary_string_easy.h"
+#include "marcs_cakewalk_easy.h"
