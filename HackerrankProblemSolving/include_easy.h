@@ -99,3 +99,4 @@
 #include "game_of_thrones_easy.h"
 #include "beautiful_binary_string_easy.h"
 #include "marcs_cakewalk_easy.h"
+#include "mark_and_toys_easy.h"
