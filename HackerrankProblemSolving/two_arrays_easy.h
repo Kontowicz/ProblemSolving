@@ -67,5 +67,6 @@ namespace _100
 			std::string result = twoArrays(k, A, B);
 
 			std::cout << result << "\n";
+		}
 	}
 }

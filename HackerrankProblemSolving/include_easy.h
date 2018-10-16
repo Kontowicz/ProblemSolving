@@ -101,3 +101,4 @@
 #include "marcs_cakewalk_easy.h"
 #include "mark_and_toys_easy.h"
 #include "two_arrays_easy.h"
+#include "flipping_bits_easy.h"
