@@ -102,6 +102,7 @@ void print()
 	name.emplace_back("Beautiful binary string");
 	name.emplace_back("Marcs cakewalk");
 	name.emplace_back("Mark and toys");
+	name.emplace_back("Two arrays");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -239,6 +240,7 @@ int main()
 		case 97: _97::beautiful_binary_string(); break;
 		case 98: _98::marcs_cakewalk(); break;
 		case 99: _99::mark_and_toys(); break;
+		case 100: _100::two_arrays(); break;
 #pragma endregion 
 			
 		case 0: break;

@@ -100,6 +100,7 @@
 |94|[The love letter mystery ](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[MySolution](../master/HackerrankProblemSolving/the_love_letter_mystery_easy.h)|
 |95|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
 |96|[Tutorial intro ](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[MySolution](../master/HackerrankProblemSolving/tutorial_intro_easy.h)|
-|97|[Two strings ](https://www.hackerrank.com/challenges/two-strings/problem)|[MySolution](../master/HackerrankProblemSolving/two_strings_easy.h)|
-|98|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
-|99|[Weighted uniform string ](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)|[MySolution](../master/HackerrankProblemSolving/weighted_uniform_string_easy.h)|
+|97|[Two arrays ](https://www.hackerrank.com/challenges/two-arrays/problem)|[MySolution](../master/HackerrankProblemSolving/two_arrays_easy.h)|
+|98|[Two strings ](https://www.hackerrank.com/challenges/two-strings/problem)|[MySolution](../master/HackerrankProblemSolving/two_strings_easy.h)|
+|99|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
+|100|[Weighted uniform string ](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)|[MySolution](../master/HackerrankProblemSolving/weighted_uniform_string_easy.h)|

@@ -216,6 +216,7 @@
     <ClInclude Include="time_conversion_easy.h" />
     <ClInclude Include="a_very_big_sum_easy.h" />
     <ClInclude Include="tutorial_intro_easy.h" />
+    <ClInclude Include="two_arrays_easy.h" />
     <ClInclude Include="two_strings_easy.h" />
     <ClInclude Include="utopian_tree_easy.h" />
     <ClInclude Include="weighted_uniform_string_easy.h" />

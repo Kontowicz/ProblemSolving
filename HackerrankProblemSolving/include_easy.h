@@ -100,3 +100,4 @@
 #include "beautiful_binary_string_easy.h"
 #include "marcs_cakewalk_easy.h"
 #include "mark_and_toys_easy.h"
+#include "two_arrays_easy.h"
