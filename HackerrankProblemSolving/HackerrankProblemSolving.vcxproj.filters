@@ -332,5 +332,8 @@
     <ClInclude Include="flipping_bits_easy.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
+    <ClInclude Include="beautiful_pairs_easy.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
