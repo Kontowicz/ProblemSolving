@@ -103,3 +103,4 @@
 #include "two_arrays_easy.h"
 #include "flipping_bits_easy.h"
 #include "beautiful_pairs_easy.h"
+#include "priyanka_and_toys_easy.h"

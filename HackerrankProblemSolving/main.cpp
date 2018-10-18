@@ -105,6 +105,7 @@ void print()
 	name.emplace_back("Two arrays");
 	name.emplace_back("Flipping bits");
 	name.emplace_back("Beautiful pairs");
+	name.emplace_back("Prianka and toys");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -245,6 +246,7 @@ int main()
 		case 100: _100::two_arrays(); break;
 		case 101: _101::flipping_bits(); break;
 		case 102: _102::beautuful_pairs(); break;
+		case 103: _103::priyaka_and_toys(); break;
 #pragma endregion 
 			
 		case 0: break;

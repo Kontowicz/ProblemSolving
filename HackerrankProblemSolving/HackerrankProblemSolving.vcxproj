@@ -194,6 +194,7 @@
     <ClInclude Include="permutation_equation_easy.h" />
     <ClInclude Include="picking_numbers_easy.h" />
     <ClInclude Include="plus_minus_easy.h" />
+    <ClInclude Include="priyanka_and_toys_easy.h" />
     <ClInclude Include="quicksort1_easy.h" />
     <ClInclude Include="reduced_string_easy.h" />
     <ClInclude Include="repeated_string_easy.h" />
