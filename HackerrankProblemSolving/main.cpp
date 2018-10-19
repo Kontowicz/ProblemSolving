@@ -106,6 +106,8 @@ void print()
 	name.emplace_back("Flipping bits");
 	name.emplace_back("Beautiful pairs");
 	name.emplace_back("Prianka and toys");
+	name.emplace_back("A chessboard game");
+
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -247,6 +249,7 @@ int main()
 		case 101: _101::flipping_bits(); break;
 		case 102: _102::beautuful_pairs(); break;
 		case 103: _103::priyaka_and_toys(); break;
+		case 104: _104::a_chessboard_game(); break;
 #pragma endregion 
 			
 		case 0: break;
