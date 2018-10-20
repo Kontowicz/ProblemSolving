@@ -124,6 +124,7 @@
     <ClInclude Include="angry_professor_easy.h" />
     <ClInclude Include="append_and_delete_easy.h" />
     <ClInclude Include="apple_and_orange_easy.h" />
+    <ClInclude Include="a_chessboard_game_1_easy.h" />
     <ClInclude Include="beautiful_binary_string_easy.h" />
     <ClInclude Include="beautiful_days_at_the_movies_easy.h" />
     <ClInclude Include="beautiful_pairs_easy.h" />
@@ -169,6 +170,7 @@
     <ClInclude Include="include_easy.h" />
     <ClInclude Include="insertionsort1_easy.h" />
     <ClInclude Include="insertionsort2_easy.h" />
+    <ClInclude Include="jim_and_the_orders_easy.h" />
     <ClInclude Include="jumping_on_the_clouds_easy.h" />
     <ClInclude Include="jumping_on_the_clouds_revisited_easy.h" />
     <ClInclude Include="kangaroo_easy.h" />

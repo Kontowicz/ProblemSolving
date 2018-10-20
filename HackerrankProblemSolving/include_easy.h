@@ -105,3 +105,4 @@
 #include "beautiful_pairs_easy.h"
 #include "priyanka_and_toys_easy.h"
 #include "a_chessboard_game_1_easy.h"
+#include "jim_and_the_orders_easy.h"
