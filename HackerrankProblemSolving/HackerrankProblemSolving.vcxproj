@@ -215,6 +215,7 @@
     <ClInclude Include="strange_code_easy.h" />
     <ClInclude Include="string_split.h" />
     <ClInclude Include="strong_password_easy.h" />
+    <ClInclude Include="sum_vs_xor_easy.h" />
     <ClInclude Include="taum_and_bday_easy.h" />
     <ClInclude Include="the_birthday_bar_easy.h" />
     <ClInclude Include="the_hurdle_race_easy.h" />

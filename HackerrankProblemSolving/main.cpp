@@ -109,6 +109,7 @@ void print()
 	name.emplace_back("A chessboard game");
 	name.emplace_back("Jim and the orders");
 	name.emplace_back("Maximazing xor");
+	name.emplace_back("Sum vs xor");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -253,6 +254,7 @@ int main()
 		case 104: _104::a_chessboard_game(); break;
 		case 105: _105::jim_and_the_orders(); break;
 		case 106: _106::maximazing_xor(); break;
+		case 107: _107::sum_vs_xor(); break;
 #pragma endregion 
 			
 		case 0: break;

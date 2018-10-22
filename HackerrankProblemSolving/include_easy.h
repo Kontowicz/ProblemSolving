@@ -107,3 +107,4 @@
 #include "a_chessboard_game_1_easy.h"
 #include "jim_and_the_orders_easy.h"
 #include "maximizing_xor_easy.h"
+#include "sum_vs_xor_easy.h"

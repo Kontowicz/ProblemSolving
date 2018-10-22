@@ -100,13 +100,14 @@
 |94|[Strange advertising ](https://www.hackerrank.com/challenges/strange-advertising/problem)|[MySolution](../master/HackerrankProblemSolving/strange_advertising_easy.h)|
 |95|[Strange code ](https://www.hackerrank.com/challenges/strange-code/problem)|[MySolution](../master/HackerrankProblemSolving/strange_code_easy.h)|
 |96|[Strong password ](https://www.hackerrank.com/challenges/strong-password/problem)|[MySolution](../master/HackerrankProblemSolving/strong_password_easy.h)|
-|97|[Taum and bday ](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[MySolution](../master/HackerrankProblemSolving/taum_and_bday_easy.h)|
-|98|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
-|99|[The hurdle race ](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[MySolution](../master/HackerrankProblemSolving/the_hurdle_race_easy.h)|
-|100|[The love letter mystery ](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[MySolution](../master/HackerrankProblemSolving/the_love_letter_mystery_easy.h)|
-|101|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
-|102|[Tutorial intro ](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[MySolution](../master/HackerrankProblemSolving/tutorial_intro_easy.h)|
-|103|[Two arrays ](https://www.hackerrank.com/challenges/two-arrays/problem)|[MySolution](../master/HackerrankProblemSolving/two_arrays_easy.h)|
-|104|[Two strings ](https://www.hackerrank.com/challenges/two-strings/problem)|[MySolution](../master/HackerrankProblemSolving/two_strings_easy.h)|
-|105|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
-|106|[Weighted uniform string ](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)|[MySolution](../master/HackerrankProblemSolving/weighted_uniform_string_easy.h)|
+|97|[Sum vs xor ](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|[MySolution](../master/HackerrankProblemSolving/sum_vs_xor_easy.h)|
+|98|[Taum and bday ](https://www.hackerrank.com/challenges/taum-and-bday/problem)|[MySolution](../master/HackerrankProblemSolving/taum_and_bday_easy.h)|
+|99|[The birthday bar ](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[MySolution](../master/HackerrankProblemSolving/the_birthday_bar_easy.h)|
+|100|[The hurdle race ](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[MySolution](../master/HackerrankProblemSolving/the_hurdle_race_easy.h)|
+|101|[The love letter mystery ](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|[MySolution](../master/HackerrankProblemSolving/the_love_letter_mystery_easy.h)|
+|102|[Time conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)|[MySolution](../master/HackerrankProblemSolving/time_conversion_easy.h)|
+|103|[Tutorial intro ](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[MySolution](../master/HackerrankProblemSolving/tutorial_intro_easy.h)|
+|104|[Two arrays ](https://www.hackerrank.com/challenges/two-arrays/problem)|[MySolution](../master/HackerrankProblemSolving/two_arrays_easy.h)|
+|105|[Two strings ](https://www.hackerrank.com/challenges/two-strings/problem)|[MySolution](../master/HackerrankProblemSolving/two_strings_easy.h)|
+|106|[Utopian tree ](https://www.hackerrank.com/challenges/utopian-tree/problem)|[MySolution](../master/HackerrankProblemSolving/utopian_tree_easy.h)|
+|107|[Weighted uniform string ](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)|[MySolution](../master/HackerrankProblemSolving/weighted_uniform_string_easy.h)|
