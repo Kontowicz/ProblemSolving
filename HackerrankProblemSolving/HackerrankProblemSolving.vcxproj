@@ -159,6 +159,7 @@
     <ClInclude Include="flatland_space_stations_easy.h" />
     <ClInclude Include="flipping_bits_easy.h" />
     <ClInclude Include="funny_string_easy.h" />
+    <ClInclude Include="game_of_stones_1_easy.h" />
     <ClInclude Include="game_of_thrones_easy.h" />
     <ClInclude Include="gem_stones_easy.h" />
     <ClInclude Include="grading_easy.h" />
