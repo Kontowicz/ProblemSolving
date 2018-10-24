@@ -109,3 +109,4 @@
 #include "maximizing_xor_easy.h"
 #include "sum_vs_xor_easy.h"
 #include "game_of_stones_1_easy.h"
+#include "poker_nim_1_easy.h"
