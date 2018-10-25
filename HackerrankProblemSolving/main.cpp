@@ -112,6 +112,7 @@ void print()
 	name.emplace_back("Sum vs xor");
 	name.emplace_back("Game of stones");
 	name.emplace_back("Poker nim 1");
+	name.emplace_back("Tower breakers 1");
 #pragma region print
 	int max_len = name[0].length();
 	for (auto it = name.begin(); it != name.end(); ++it)
@@ -259,6 +260,7 @@ int main()
 		case 107: _107::sum_vs_xor(); break;
 		case 108: _108::game_of_stones(); break;
 		case 109: _109::poker_nim_1(); break;
+		case 110: _110::tower_breakers_1(); break;
 #pragma endregion 
 			
 		case 0: break;
