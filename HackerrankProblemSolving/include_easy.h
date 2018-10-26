@@ -111,3 +111,4 @@
 #include "game_of_stones_1_easy.h"
 #include "poker_nim_1_easy.h"
 #include "tower_breakers_1_easy.h"
+#include "nimble_game_1_easy.h"
